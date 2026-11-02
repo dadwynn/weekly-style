@@ -42,7 +42,8 @@ def _graphql(store: str, token: str, query: str, variables: dict) -> dict:
 
 
 def publish(body_html: str) -> str:
-    store = os.environ["SHOPIFY_STORE"]  # e.g. my-shop.myshopify.com
+    # e.g. my-shop.myshopify.com; tolerate a pasted "https://.../" form
+    store = os.environ["SHOPIFY_STORE"].strip().removeprefix("https://").removeprefix("http://").rstrip("/")
     token = _access_token(store)
 
     data = _graphql(store, token,
