@@ -1,0 +1,27 @@
+# RSS sources. `audience` is women | men. A dead feed is skipped with a warning.
+feeds:
+  - {outlet: Vogue,            audience: women, url: "https://www.vogue.com/feed/rss"}
+  - {outlet: Elle,             audience: women, url: "https://www.elle.com/rss/fashion.xml/"}
+  - {outlet: Harper's Bazaar,  audience: women, url: "https://www.harpersbazaar.com/rss/fashion.xml/"}
+  - {outlet: Marie Claire,     audience: women, url: "https://www.marieclaire.com/feeds.xml"}
+  - {outlet: Glamour,          audience: women, url: "https://www.glamour.com/feed/rss"}
+  - {outlet: Who What Wear,    audience: women, url: "https://www.whowhatwear.com/rss"}
+  - {outlet: Refinery29,       audience: women, url: "https://www.refinery29.com/en-us/fashion/rss.xml"}
+  - {outlet: The Cut,          audience: women, url: "https://feeds.feedburner.com/nymag/fashion"}
+  - {outlet: GQ,               audience: men,   url: "https://www.gq.com/feed/rss"}
+  - {outlet: Esquire,          audience: men,   url: "https://www.esquire.com/rss/style.xml/"}
+  - {outlet: Highsnobiety,     audience: men,   url: "https://www.highsnobiety.com/feed/"}
+  - {outlet: Put This On,      audience: men,   url: "https://putthison.com/feed/"}
+
+# Google News searches (last 7 days). The outlet comes from each result's source.
+google_news:
+  - {audience: women, query: "fashion trends"}
+  - {audience: women, query: "how to style outfit"}
+  - {audience: women, query: "fall winter fashion trend"}
+  - {audience: men,   query: "menswear trends how to wear"}
+  - {audience: men,   query: "men's outfit ideas"}
+
+# Target mix for the ~100 articles that get ranked.
+target_total: 100
+target_men: 22
+max_per_outlet: 12

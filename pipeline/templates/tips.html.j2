@@ -1,0 +1,32 @@
+<header class="ws-masthead ws-wrap">
+  <p class="ws-kicker">Weekly Style Tips &middot; Week of {{ week_of }}</p>
+  <h1 class="ws-masthead__title">The Edit</h1>
+  <p class="ws-masthead__dek">{{ intro }}</p>
+</header>
+<hr class="ws-rule">
+
+<section class="ws-narrow">
+  <ol class="ws-list">
+  {% for item in items %}
+    <li class="ws-item">
+      <span class="ws-item__num">{{ "%02d" % loop.index }}</span>
+      <div>
+        <p class="ws-kicker ws-item__meta">{{ item.outlet }}{% if item.audience == "men" %} &middot; Menswear{% endif %}</p>
+        <h2 class="ws-item__title"><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.headline }}</a></h2>
+        <p class="ws-item__summary">{{ item.summary }}</p>
+        <p class="ws-item__tip">{{ item.tip }}</p>
+        <a class="ws-item__link" href="{{ item.url }}" target="_blank" rel="noopener">Read the full article &rarr;</a>
+      </div>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+
+<section class="ws-practice ws-narrow">
+  <p class="ws-kicker">This week, for you</p>
+  <h2 class="ws-practice__title">Putting it into practice</h2>
+  {% for para in practice %}
+  <p>{{ para }}</p>
+  {% endfor %}
+  <p class="ws-footnote">Picked from {{ considered }} articles published this week, ranked on how wearable, helpful, affordable, lasting, seasonal and inclusive each idea is, and how many outlets are covering it. Updated every Sunday.</p>
+</section>

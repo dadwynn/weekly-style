@@ -1,0 +1,11 @@
+{%- comment -%}
+  Weekly Style Tips page. The page body is replaced every Sunday by the pipeline
+  (pipeline/publish.py); this template only supplies fonts and styling.
+{%- endcomment -%}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;1,6..96,400&family=Inter:wght@400;600&display=swap">
+{{ 'weekly-style.css' | asset_url | stylesheet_tag }}
+
+<div class="ws">
+  {{ page.content }}
+</div>

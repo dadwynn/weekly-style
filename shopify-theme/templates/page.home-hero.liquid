@@ -1,0 +1,20 @@
+{%- comment -%}
+  Home hero page. Assign this template to a page (or link your homepage to it).
+  Edit the headline/dek below; the button points at the weekly tips page.
+{%- endcomment -%}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;1,6..96,400&family=Inter:wght@400;600&display=swap">
+{{ 'weekly-style.css' | asset_url | stylesheet_tag }}
+
+<div class="ws">
+  <section class="ws-hero ws-wrap">
+    <p class="ws-kicker">The Weekly Edit &middot; {{ 'now' | date: '%B %Y' }}</p>
+    <h1 class="ws-hero__title">Dress well,<br><em>every week.</em></h1>
+    <p class="ws-hero__dek">
+      Every Sunday we read about a hundred fashion stories and keep the seven that are
+      wearable, affordable and actually worth your time.
+    </p>
+    <a class="ws-btn" href="/pages/style-tips">Read this week's tips</a>
+  </section>
+  <hr class="ws-rule">
+</div>
