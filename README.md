@@ -55,7 +55,3 @@ python main.py --dry-run     # full run, writes preview/index.html (needs ANTHRO
 Each run saves its ranking and edition to `data/YYYY-MM-DD.json`. If fewer than 20 articles are collected, the run aborts and last week's page stays up.
 
 Optional env vars: `CLAUDE_MODEL` (default `claude-sonnet-5-5`), `SHOPIFY_PAGE_HANDLE` (default `style-tips`), `SHOPIFY_API_VERSION` (default `2026-10`).
-
-
-## Install link
-https://admin.shopify.com/oauth/install_custom_app?client_id=861b57de7f4342e4c045de0596bba65e&no_redirect=true&signature=eyJleHBpcmVzX2F0IjoxNzk0MTg0NTk3LCJwZXJtYW5lbnRfZG9tYWluIjoiaWNleWNyZXcubXlzaG9waWZ5LmNvbSIsImNsaWVudF9pZCI6Ijg2MWI1N2RlN2Y0MzQyZTRjMDQ1ZGUwNTk2YmJhNjVlIiwicHVycG9zZSI6ImN1c3RvbV9hcHAiLCJtZXJjaGFudF9vcmdhbml6YXRpb25faWQiOjEyODQ0MTE0fQ%3D%3D--4f7bd7761fd3fab7805f932cd1d5a1f939d9d6fe
