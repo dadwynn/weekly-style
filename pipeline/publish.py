@@ -23,7 +23,9 @@ def _access_token(store: str) -> str:
         },
         timeout=30,
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        # Shopify's body names the cause (e.g. shop_not_permitted, invalid_client).
+        raise RuntimeError(f"Shopify token request failed ({resp.status_code}): {resp.text[:500]}")
     return resp.json()["access_token"]
 
 
