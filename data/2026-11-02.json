@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02T01:11:28.964861+00:00",
+  "date": "2026-11-02T01:23:53.131225+00:00",
   "weights": {
     "applicability": 20,
     "helpfulness": 20,
@@ -11,7 +11,7 @@
     "credibility": 6
   },
   "edition": {
-    "intro": "This week's edit is about getting more out of what you already own, from a smarter closet cleanout to brown skirts, velvet trousers, and a few polished touches for the colder months.",
+    "intro": "This week's edit is all about wearing more of what you already own, with a few smart, versatile pieces for fall.",
     "items": [
       {
         "title": "The 2026 Closet Cleanout Guide: How to Know What to Keep, Toss, and Replace",
@@ -27,16 +27,41 @@
           "applicability": 9,
           "helpfulness": 8,
           "trendiness": 3,
-          "affordability": 10,
+          "affordability": 9,
           "longevity": 8,
           "seasonal": 5,
-          "inclusivity": 7,
+          "inclusivity": 6,
           "credibility": 8
         },
-        "score": 74.7,
-        "headline": "How to Clean Out Your Closet Without Losing Your Mind",
-        "summary": "Professional organizers and a stylist say you shouldn't pull everything out at once, and several of them are done with the old rule about tossing anything unworn for a year. Edit before you organize, and tackle one category at a time. Replace worn-out basics, but consider repairing or tailoring good coats, blazers, and leather pieces.",
-        "tip": "Pick one category, like shoes or sweaters, and edit only that this weekend."
+        "score": 72.5,
+        "headline": "How to Clean Out Your Closet: What to Keep, Toss, and Replace",
+        "summary": "Professional organizers say a good cleanout is about thoughtful choices, not getting rid of as much as possible. They suggest editing before you organize, tackling one category at a time, and being honest about what you actually wear. Everyday basics are worth replacing when they wear out, while coats and blazers can often be repaired or tailored.",
+        "tip": "Pick one category, like sweaters or shoes, and edit just that this week."
+      },
+      {
+        "title": "Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral",
+        "url": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+        "outlet": "Vogue",
+        "audience": "women",
+        "published": "2026-11-01T11:30:00+00:00",
+        "snippet": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+        "id": 54,
+        "topic": "leopard neutral",
+        "is_style_advice": true,
+        "criteria": {
+          "applicability": 7,
+          "helpfulness": 8,
+          "trendiness": 5,
+          "affordability": 6,
+          "longevity": 7,
+          "seasonal": 8,
+          "inclusivity": 6,
+          "credibility": 9
+        },
+        "score": 68.7,
+        "headline": "How to Style Leopard Print as a Neutral",
+        "summary": "Laurel Pantin argues that animal print works like a neutral because its colors are so easy to pair with others. Her approach is to keep it nearly tonal, add casual pieces like sweatshirts or denim, and bring in something slightly quirky so the outfit feels personal rather than costume-like. Her advice to a tired shopper is to mix well-worn favorites with more polished pieces.",
+        "tip": "Pair a leopard piece with your favorite jeans or a sweatshirt to dial down the drama."
       },
       {
         "title": "Brown Midiskirts That'll Go With Every Shoe in Your Closet This Fall",
@@ -59,59 +84,9 @@
           "credibility": 8
         },
         "score": 65.8,
-        "headline": "Brown Midiskirts That Work With Nearly Every Shoe You Own",
-        "summary": "Brown skirts are having a moment this fall, serving as a neutral base or as the star of an all-brown outfit. They pair easily with heels, loafers, ballet flats, and even sneakers. Animal print, leather, black tops, or bright colors can all change the mood.",
-        "tip": "Try a brown midiskirt with the shoes you already own and see which pair feels best."
-      },
-      {
-        "title": "Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral",
-        "url": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
-        "outlet": "Vogue",
-        "audience": "women",
-        "published": "2026-11-01T11:30:00+00:00",
-        "snippet": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
-        "id": 54,
-        "topic": "leopard neutral",
-        "is_style_advice": true,
-        "criteria": {
-          "applicability": 6,
-          "helpfulness": 7,
-          "trendiness": 5,
-          "affordability": 6,
-          "longevity": 7,
-          "seasonal": 8,
-          "inclusivity": 6,
-          "credibility": 9
-        },
-        "score": 64.7,
-        "headline": "How to Style Leopard Like a Neutral",
-        "summary": "Leopard works because its colors are earthy and familiar, but styling matters. Keep the look loosely tonal, add casual pieces like sweatshirts or denim, and bring in a slightly quirky accessory so it doesn't feel costume-like. The column also suggests pairing old favorites with more polished pieces to refresh a wardrobe.",
-        "tip": "Wear one animal-print piece with jeans or a sweatshirt to make it feel everyday."
-      },
-      {
-        "title": "The ‘Imperfect Manicure’ Trend Is Finally Making Smudged Nail Polish Cool",
-        "url": "https://www.glamour.com/story/the-imperfect-manicure-trend",
-        "outlet": "Glamour",
-        "audience": "women",
-        "published": "2026-10-31T14:00:00+00:00",
-        "snippet": "The manicure “even your boyfriend could have done.”",
-        "id": 81,
-        "topic": "imperfect manicure",
-        "is_style_advice": true,
-        "criteria": {
-          "applicability": 7,
-          "helpfulness": 5,
-          "trendiness": 3,
-          "affordability": 10,
-          "longevity": 4,
-          "seasonal": 6,
-          "inclusivity": 8,
-          "credibility": 8
-        },
-        "score": 62.1,
-        "headline": "Smudged Nails Are Officially a Look",
-        "summary": "Runway beauty is embracing a deliberately imperfect manicure, with polish left just as messy as it landed. The idea is a break from perfectionism in nail art. The takeaway is that a less-than-flawless manicure really doesn't matter.",
-        "tip": "Skip the fussy cleanup the next time you paint your nails and let it be."
+        "headline": "Brown Midiskirts Are This Fall's Easy Shoe-Friendly Staple",
+        "summary": "Brown midiskirts are showing up everywhere this season, working either as a grounding base for brighter colors or as the star of an all-brown look. They go with heels, loafers, ballet flats, and even sneakers. Details like leather, ruffles, or animal print can freshen up the style.",
+        "tip": "Try a brown skirt with a black top and the flats or loafers you already own."
       },
       {
         "title": "The Art of the Evening Sweater: 5 Silhouettes to Wear All Winter Long",
@@ -121,47 +96,72 @@
         "published": "2026-10-30T20:37:05+00:00",
         "snippet": "These sumptuous knits are anything but frumpy.",
         "id": 99,
-        "topic": "evening sweaters",
+        "topic": "winter sweaters",
         "is_style_advice": true,
         "criteria": {
           "applicability": 7,
           "helpfulness": 7,
-          "trendiness": 3,
+          "trendiness": 5,
           "affordability": 5,
           "longevity": 7,
           "seasonal": 9,
           "inclusivity": 6,
           "credibility": 7
         },
-        "score": 61.7,
-        "headline": "Evening Sweaters: Five Shapes for Winter Nights",
-        "summary": "Knitwear can be dressy as well as cozy when it has one sultry detail, such as a wrap front, bare shoulder, deep neckline, open back, or no sleeves. The trend comes from recent runways but is easy to wear in real life. These styles keep you warm without looking like loungewear.",
-        "tip": "Look for a sweater with one interesting neckline or back detail rather than a whole new outfit."
+        "score": 64.7,
+        "headline": "Five Evening Sweater Styles to Wear All Winter",
+        "summary": "Knitwear can feel dressy enough for a night out if it has one sultry detail, such as a wrap waist, a draped neckline, or an open back. The idea is to stay warm while still looking polished and a little daring. Sleeveless knits also layer neatly under a leather jacket.",
+        "tip": "Look for a sweater with just one standout detail, like a wrap front or a low neckline, and wear it with jeans."
       },
       {
-        "title": "How to Wear Velvet Pants, According to the Runways",
-        "url": "https://www.elle.com/fashion/shopping/a74297647/how-to-style-velvet-pants-outfits/",
+        "title": "The Best Knee-Length Skirts Worth Adding to Your Closet",
+        "url": "https://www.elle.com/fashion/shopping/a74298696/best-knee-length-skirts-trend/",
         "outlet": "Elle",
         "audience": "women",
-        "published": "2026-10-31T15:19:51+00:00",
-        "snippet": "From Burberry’s utilitarian twist to Tory Burch’s stripes, the runways make the case for wearing velvet pants every day.",
-        "id": 77,
-        "topic": "velvet pants",
+        "published": "2026-10-31T15:22:24+00:00",
+        "snippet": "From polished pencils to effortless denim, these are the skirts to shop now.",
+        "id": 76,
+        "topic": "knee-length skirts",
         "is_style_advice": true,
         "criteria": {
-          "applicability": 6,
-          "helpfulness": 7,
-          "trendiness": 5,
-          "affordability": 6,
-          "longevity": 4,
-          "seasonal": 9,
-          "inclusivity": 5,
+          "applicability": 8,
+          "helpfulness": 6,
+          "trendiness": 3,
+          "affordability": 5,
+          "longevity": 8,
+          "seasonal": 7,
+          "inclusivity": 6,
           "credibility": 8
         },
-        "score": 61.1,
-        "headline": "How to Wear Velvet Pants Beyond the Holidays",
-        "summary": "Velvet is moving out of party-only dressing and into everyday wardrobes, according to recent runway shows. Treat velvet trousers like any other pair of pants, with fine knits, crisp shirts, or tailoring. Loafers or flats keep them casual, while heels and silk dress them up.",
-        "tip": "Style velvet pants with a plain knit and flats for a daytime test run."
+        "score": 61.9,
+        "headline": "Why the Knee-Length Skirt Never Goes Out of Style",
+        "summary": "The knee-length skirt endures because its hemline is flattering on many body types and works with flats, boots, and heels. The fabric sets the mood, from structured wool to silky satin to relaxed denim. This roundup mixes splurge-worthy classics with more affordable options.",
+        "tip": "Try a knee-length skirt in a fabric you don't usually wear to see how it shifts your style."
+      },
+      {
+        "title": "No Need To Guess—6 Fall Shoe Trends Fashion People Are Wearing Right Now",
+        "url": "https://www.whowhatwear.com/fashion/shoes/best-fall-shoe-trends-november-2026",
+        "outlet": "Who What Wear",
+        "audience": "women",
+        "published": "2026-11-01T19:10:00+00:00",
+        "snippet": "From animal print to penny loafers.",
+        "id": 33,
+        "topic": "fall shoe trends",
+        "is_style_advice": true,
+        "criteria": {
+          "applicability": 7,
+          "helpfulness": 6,
+          "trendiness": 3,
+          "affordability": 5,
+          "longevity": 6,
+          "seasonal": 9,
+          "inclusivity": 6,
+          "credibility": 8
+        },
+        "score": 59.3,
+        "headline": "Six Fall Shoe Trends Fashion People Are Wearing Now",
+        "summary": "This season's shoe trends include animal print, jewel tones, tall boots with sleeker toes, and ballet pumps with a small heel. Sleek penny loafers are replacing chunky soles, and elegant slipper-style shoes are gaining ground. Each trend offers a simple way to update outfits you already have.",
+        "tip": "If you buy one pair, choose a sleek loafer or a small-heeled ballet pump that works with several outfits."
       },
       {
         "title": "11 Best Men's Dress Shirts 2026, According to GQ Editors",
@@ -175,23 +175,23 @@
         "is_style_advice": true,
         "criteria": {
           "applicability": 7,
-          "helpfulness": 6,
+          "helpfulness": 5,
           "trendiness": 3,
-          "affordability": 5,
+          "affordability": 4,
           "longevity": 8,
           "seasonal": 6,
           "inclusivity": 4,
           "credibility": 7
         },
-        "score": 57.2,
-        "headline": "The Dress Shirts Worth Owning, Budget to Splurge",
-        "summary": "GQ's editors say a good dress shirt is useful well beyond formal events, and can make casual outfits look more considered. Their top pick is a Portuguese cotton shirt with a more classic collar, while an affordable Uniqlo option earns praise for fit and construction. A pricier Todd Snyder shirt is their choice for an upgrade.",
-        "tip": "Check the collar and fit of any shirt you own or buy, since they matter more than the label."
+        "score": 53.7,
+        "headline": "The Best Men's Dress Shirts, According to GQ",
+        "summary": "GQ's editors say a well-chosen dress shirt is useful far beyond formal events, since the right fit, fabric, and details let it work in casual settings too. Their top picks include a classic Oxford from J.Crew, a surprisingly solid budget option from Uniqlo, and a splurge from Todd Snyder. A good collar and a slim but not skin-tight fit matter most.",
+        "tip": "Try wearing a crisp dress shirt untucked over a tee or with jeans for an easy upgrade."
       }
     ],
     "practice": [
-      "Start by shopping your closet: pick one category, edit it honestly, and keep only what fits and suits your life now. Pull out the pieces you forgot about, like a brown skirt, a velvet or dressier pair of pants, or an animal-print item, and try them with basics you already wear every week. Repair or tailor good coats and blazers before replacing them.",
-      "If you do buy something, choose one piece that fills a real gap: a brown midiskirt, a good shirt, or a knit with a flattering neckline. Pair something polished with something casual, such as velvet with a simple sweater or leopard with denim. Keep accessories simple, and don't worry if the details aren't perfect."
+      "Start by shopping your closet: pull out just one category, like skirts or sweaters, and keep only what fits and feels like you. Try your most worn-in favorites, such as old jeans or a tee, with something more polished, and let a leopard or brown piece work as your neutral. Take anything that needs mending or tailoring, like a coat or blazer, to a repair shop before deciding to replace it.",
+      "If you do buy something, keep it to one or two versatile pieces: a brown or knee-length skirt, a sleek loafer or low-heeled pump, or a knit with one interesting neckline. Those pieces should work with the clothes you already own, such as denim, a plain tee, or a leather jacket. For men, a well-fitting dress shirt can do the same job, dressing up jeans or smartening a tee."
     ]
   },
   "ranked": [
@@ -210,12 +210,12 @@
         "helpfulness": 8,
         "trendiness": 3,
         "affordability": 8,
-        "longevity": 9,
+        "longevity": 8,
         "seasonal": 8,
         "inclusivity": 7,
         "credibility": 8
       },
-      "score": 74.8
+      "score": 73.8
     },
     {
       "title": "The 2026 Closet Cleanout Guide: How to Know What to Keep, Toss, and Replace",
@@ -231,13 +231,13 @@
         "applicability": 9,
         "helpfulness": 8,
         "trendiness": 3,
-        "affordability": 10,
+        "affordability": 9,
         "longevity": 8,
         "seasonal": 5,
-        "inclusivity": 7,
+        "inclusivity": 6,
         "credibility": 8
       },
-      "score": 74.7
+      "score": 72.5
     },
     {
       "title": "What Shoes to Wear with Jeans? 7 Outfit Combinations to Show Off This Fall, Based on the Style",
@@ -253,13 +253,35 @@
         "applicability": 9,
         "helpfulness": 8,
         "trendiness": 3,
-        "affordability": 8,
+        "affordability": 7,
         "longevity": 8,
         "seasonal": 8,
-        "inclusivity": 7,
+        "inclusivity": 6,
         "credibility": 8
       },
-      "score": 73.8
+      "score": 71.6
+    },
+    {
+      "title": "Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral",
+      "url": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T11:30:00+00:00",
+      "snippet": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+      "id": 54,
+      "topic": "leopard neutral",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 7,
+        "helpfulness": 8,
+        "trendiness": 5,
+        "affordability": 6,
+        "longevity": 7,
+        "seasonal": 8,
+        "inclusivity": 6,
+        "credibility": 9
+      },
+      "score": 68.7
     },
     {
       "title": "Katie Holmes Taught Me Exactly How to Style a Silk Skirt — I’m Recreating 3 of Her Best Looks from $9",
@@ -291,7 +313,7 @@
       "published": "2026-11-01T08:30:00+00:00",
       "snippet": "Katie Holmes and Hailey Bieber Wore the Ageless Fall Pants Trend I’m Buying Instead of Jeans—From $15 InStyle",
       "id": 66,
-      "topic": "fall pants trend",
+      "topic": "ageless fall pants",
       "is_style_advice": true,
       "criteria": {
         "applicability": 8,
@@ -300,10 +322,32 @@
         "affordability": 8,
         "longevity": 7,
         "seasonal": 9,
+        "inclusivity": 7,
+        "credibility": 7
+      },
+      "score": 66.9
+    },
+    {
+      "title": "I Finally Tried Quince’s Expensive-Looking Outerwear and This Collarless Wool Coat Is a Fall Essential",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZ3BaQ2tXal9vZWYyblpJZzEwZm94SGVXQWxaWXA2V0JxZFJDbUFWUUlKYzdOdG1lblJIbXZiWWE0MXpYTmlzWG5kQVVQUnhPVnRxYWJUdW05OWdkZTRGN1NYaFF5c3ZDMmxtblhZNUJ0d3BsQ3E5bg?oc=5",
+      "outlet": "InStyle",
+      "audience": "women",
+      "published": "2026-11-01T05:30:00+00:00",
+      "snippet": "I Finally Tried Quince’s Expensive-Looking Outerwear and This Collarless Wool Coat Is a Fall Essential InStyle",
+      "id": 68,
+      "topic": "affordable wool coats",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 8,
+        "helpfulness": 6,
+        "trendiness": 3,
+        "affordability": 7,
+        "longevity": 8,
+        "seasonal": 10,
         "inclusivity": 6,
         "credibility": 7
       },
-      "score": 66.2
+      "score": 66.4
     },
     {
       "title": "Brown Midiskirts That'll Go With Every Shoe in Your Closet This Fall",
@@ -328,46 +372,24 @@
       "score": 65.8
     },
     {
-      "title": "I Finally Tried Quince’s Expensive-Looking Outerwear and This Collarless Wool Coat Is a Fall Essential",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZ3BaQ2tXal9vZWYyblpJZzEwZm94SGVXQWxaWXA2V0JxZFJDbUFWUUlKYzdOdG1lblJIbXZiWWE0MXpYTmlzWG5kQVVQUnhPVnRxYWJUdW05OWdkZTRGN1NYaFF5c3ZDMmxtblhZNUJ0d3BsQ3E5bg?oc=5",
-      "outlet": "InStyle",
+      "title": "The Art of the Evening Sweater: 5 Silhouettes to Wear All Winter Long",
+      "url": "https://www.elle.com/fashion/shopping/a74248823/best-evening-sweaters/",
+      "outlet": "Elle",
       "audience": "women",
-      "published": "2026-11-01T05:30:00+00:00",
-      "snippet": "I Finally Tried Quince’s Expensive-Looking Outerwear and This Collarless Wool Coat Is a Fall Essential InStyle",
-      "id": 68,
-      "topic": "wool coats",
+      "published": "2026-10-30T20:37:05+00:00",
+      "snippet": "These sumptuous knits are anything but frumpy.",
+      "id": 99,
+      "topic": "winter sweaters",
       "is_style_advice": true,
       "criteria": {
-        "applicability": 8,
-        "helpfulness": 6,
-        "trendiness": 3,
-        "affordability": 6,
-        "longevity": 8,
-        "seasonal": 10,
-        "inclusivity": 6,
-        "credibility": 7
-      },
-      "score": 64.9
-    },
-    {
-      "title": "Ask Earl With Laurel Pantin: How to Style Leopard as a Neutral",
-      "url": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T11:30:00+00:00",
-      "snippet": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
-      "id": 54,
-      "topic": "leopard neutral",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
+        "applicability": 7,
         "helpfulness": 7,
         "trendiness": 5,
-        "affordability": 6,
+        "affordability": 5,
         "longevity": 7,
-        "seasonal": 8,
+        "seasonal": 9,
         "inclusivity": 6,
-        "credibility": 9
+        "credibility": 7
       },
       "score": 64.7
     },
@@ -394,48 +416,26 @@
       "score": 64.2
     },
     {
-      "title": "The ‘Imperfect Manicure’ Trend Is Finally Making Smudged Nail Polish Cool",
-      "url": "https://www.glamour.com/story/the-imperfect-manicure-trend",
-      "outlet": "Glamour",
+      "title": "It’s official: these 5 boot trends are set to be everywhere this season - shop the best from £38",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEQwdWhfZkFHdlUwbV9WaXFyRzNBSUg4cWhES0xFUVFKdkhJWUtKVGJsV0FNeVd4aHgzaTN2TXhqeUVzcU13RVp2djdkV2VHakp0UW15ODk1Y3hFMVB0UmZMQWcxX2xTZm11NG9neDZCejlETlNKSk1oUFZyVTdLaGlhOVIySTZYTXlnaklCeTFfa2hDRFE?oc=5",
+      "outlet": "Good Housekeeping",
       "audience": "women",
-      "published": "2026-10-31T14:00:00+00:00",
-      "snippet": "The manicure “even your boyfriend could have done.”",
-      "id": 81,
-      "topic": "imperfect manicure",
+      "published": "2026-11-01T11:10:47+00:00",
+      "snippet": "It’s official: these 5 boot trends are set to be everywhere this season - shop the best from £38 Good Housekeeping",
+      "id": 56,
+      "topic": "fall boot trends",
       "is_style_advice": true,
       "criteria": {
-        "applicability": 7,
-        "helpfulness": 5,
+        "applicability": 8,
+        "helpfulness": 6,
         "trendiness": 3,
-        "affordability": 10,
-        "longevity": 4,
-        "seasonal": 6,
-        "inclusivity": 8,
-        "credibility": 8
-      },
-      "score": 62.1
-    },
-    {
-      "title": "The Art of the Evening Sweater: 5 Silhouettes to Wear All Winter Long",
-      "url": "https://www.elle.com/fashion/shopping/a74248823/best-evening-sweaters/",
-      "outlet": "Elle",
-      "audience": "women",
-      "published": "2026-10-30T20:37:05+00:00",
-      "snippet": "These sumptuous knits are anything but frumpy.",
-      "id": 99,
-      "topic": "evening sweaters",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 7,
-        "helpfulness": 7,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 7,
+        "affordability": 7,
+        "longevity": 6,
         "seasonal": 9,
         "inclusivity": 6,
         "credibility": 7
       },
-      "score": 61.7
+      "score": 63.7
     },
     {
       "title": "Knee-High Boots And Dresses Is A Failsafe Autumn Outfit Formula: 7 Stylish Combinations To Try Now",
@@ -449,7 +449,7 @@
       "is_style_advice": true,
       "criteria": {
         "applicability": 7,
-        "helpfulness": 7,
+        "helpfulness": 8,
         "trendiness": 3,
         "affordability": 5,
         "longevity": 6,
@@ -457,7 +457,51 @@
         "inclusivity": 5,
         "credibility": 8
       },
-      "score": 61.3
+      "score": 63.3
+    },
+    {
+      "title": "The Best Knee-Length Skirts Worth Adding to Your Closet",
+      "url": "https://www.elle.com/fashion/shopping/a74298696/best-knee-length-skirts-trend/",
+      "outlet": "Elle",
+      "audience": "women",
+      "published": "2026-10-31T15:22:24+00:00",
+      "snippet": "From polished pencils to effortless denim, these are the skirts to shop now.",
+      "id": 76,
+      "topic": "knee-length skirts",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 8,
+        "helpfulness": 6,
+        "trendiness": 3,
+        "affordability": 5,
+        "longevity": 8,
+        "seasonal": 7,
+        "inclusivity": 6,
+        "credibility": 8
+      },
+      "score": 61.9
+    },
+    {
+      "title": "I’m a Fashion Writer, and These 12 Dated Trends Are ‘Out’ for Winter—Here’s What I’m Wearing Instead, From $15",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWJtaElqcUNEbDNod1dxN3J5bEJyVl8tNnB6M29odkkzRThsOUVTWS1BdFl2c2VHVk03RG5zYjdyQ0FReGhHdmJ2YXBCajJNcUdVNFFWQzhvUXdkbjBkbW8yNEliYUZXTjVMSmR3bE9FdDFrbEdhUzJrbHN5RktqcVZOWEtCaGRWbjJ3M01oOXp3ZUNveFNDeFhQYllRLWxMUmZrdDZJSVgtVTg?oc=5",
+      "outlet": "Travel + Leisure",
+      "audience": "women",
+      "published": "2026-10-31T10:00:00+00:00",
+      "snippet": "I’m a Fashion Writer, and These 12 Dated Trends Are ‘Out’ for Winter—Here’s What I’m Wearing Instead, From $15 Travel + Leisure",
+      "id": 86,
+      "topic": "dated winter trends",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 7,
+        "helpfulness": 6,
+        "trendiness": 3,
+        "affordability": 8,
+        "longevity": 5,
+        "seasonal": 8,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 60.2
     },
     {
       "title": "How to Wear Velvet Pants, According to the Runways",
@@ -473,35 +517,13 @@
         "applicability": 6,
         "helpfulness": 7,
         "trendiness": 5,
-        "affordability": 6,
+        "affordability": 5,
         "longevity": 4,
         "seasonal": 9,
         "inclusivity": 5,
         "credibility": 8
       },
-      "score": 61.1
-    },
-    {
-      "title": "It’s official: these 5 boot trends are set to be everywhere this season - shop the best from £38",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEQwdWhfZkFHdlUwbV9WaXFyRzNBSUg4cWhES0xFUVFKdkhJWUtKVGJsV0FNeVd4aHgzaTN2TXhqeUVzcU13RVp2djdkV2VHakp0UW15ODk1Y3hFMVB0UmZMQWcxX2xTZm11NG9neDZCejlETlNKSk1oUFZyVTdLaGlhOVIySTZYTXlnaklCeTFfa2hDRFE?oc=5",
-      "outlet": "Good Housekeeping",
-      "audience": "women",
-      "published": "2026-11-01T11:10:47+00:00",
-      "snippet": "It’s official: these 5 boot trends are set to be everywhere this season - shop the best from £38 Good Housekeeping",
-      "id": 56,
-      "topic": "fall boot trends",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 7,
-        "helpfulness": 6,
-        "trendiness": 3,
-        "affordability": 7,
-        "longevity": 5,
-        "seasonal": 9,
-        "inclusivity": 5,
-        "credibility": 7
-      },
-      "score": 60.0
+      "score": 59.6
     },
     {
       "title": "No Need To Guess—6 Fall Shoe Trends Fashion People Are Wearing Right Now",
@@ -526,48 +548,48 @@
       "score": 59.3
     },
     {
-      "title": "I’m a Fashion Writer, and These 12 Dated Trends Are ‘Out’ for Winter—Here’s What I’m Wearing Instead, From $15",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWJtaElqcUNEbDNod1dxN3J5bEJyVl8tNnB6M29odkkzRThsOUVTWS1BdFl2c2VHVk03RG5zYjdyQ0FReGhHdmJ2YXBCajJNcUdVNFFWQzhvUXdkbjBkbW8yNEliYUZXTjVMSmR3bE9FdDFrbEdhUzJrbHN5RktqcVZOWEtCaGRWbjJ3M01oOXp3ZUNveFNDeFhQYllRLWxMUmZrdDZJSVgtVTg?oc=5",
-      "outlet": "Travel + Leisure",
+      "title": "Your Winter Wardrobe Needs a Sexy Little Sweater",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UdlJNeHU4MUxObGJFd2pkUDdObllyTk8weWNQNmZ6NGlId0FxcGFCNHgwUm5hMFFOVWZvY1BiTWw3dUlPaFg3MnRrMFkwZ1loSEJEVmxTYXZzUDZTRkkzaVVMMXBNODlrT2pDWUdHbGRUSmdSWVVuRXVR?oc=5",
+      "outlet": "ELLE",
       "audience": "women",
-      "published": "2026-10-31T10:00:00+00:00",
-      "snippet": "I’m a Fashion Writer, and These 12 Dated Trends Are ‘Out’ for Winter—Here’s What I’m Wearing Instead, From $15 Travel + Leisure",
-      "id": 86,
-      "topic": "dated winter trends",
+      "published": "2026-10-30T20:41:51+00:00",
+      "snippet": "Your Winter Wardrobe Needs a Sexy Little Sweater ELLE",
+      "id": 97,
+      "topic": "winter sweaters",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 7,
+        "helpfulness": 5,
+        "trendiness": 5,
+        "affordability": 5,
+        "longevity": 6,
+        "seasonal": 9,
+        "inclusivity": 5,
+        "credibility": 7
+      },
+      "score": 59.0
+    },
+    {
+      "title": "30 Items Vogue Editors Happily Shopped, From Flannel Shirts to Tomato-Red Knitwear",
+      "url": "https://www.vogue.com/article/what-vogue-editors-purchased",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T11:00:00+00:00",
+      "snippet": "Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this fall.",
+      "id": 58,
+      "topic": "editor fall picks",
       "is_style_advice": true,
       "criteria": {
         "applicability": 7,
         "helpfulness": 6,
         "trendiness": 3,
-        "affordability": 8,
-        "longevity": 4,
-        "seasonal": 8,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 59.2
-    },
-    {
-      "title": "The Runways Have Spoken: Velvet Pants Are an Everyday Staple for Fall",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTBrM3FoU0NDYWtGM1VLdWxYZG5nSU51cl9uaVJiNC1lS3RrbDIycnZ0UkRVNEhfT3RlT1lsdFpkWlR1MEQzeWVCUlAzcTJITWFvRmZGeFdvRldOaWtVTXpQenM4TXY5XzduZ0htbVJGMktjdnpTQkRXdGpKb3JxVmlLSXFZMHVOZGc?oc=5",
-      "outlet": "ELLE",
-      "audience": "women",
-      "published": "2026-10-31T15:23:06+00:00",
-      "snippet": "The Runways Have Spoken: Velvet Pants Are an Everyday Staple for Fall ELLE",
-      "id": 75,
-      "topic": "velvet pants",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 6,
-        "trendiness": 5,
-        "affordability": 6,
-        "longevity": 4,
+        "affordability": 5,
+        "longevity": 6,
         "seasonal": 9,
         "inclusivity": 5,
         "credibility": 8
       },
-      "score": 59.1
+      "score": 58.6
     },
     {
       "title": "Zoë Kravitz Confirms Leopard Print Shoes Are a Neutral",
@@ -584,12 +606,12 @@
         "helpfulness": 5,
         "trendiness": 5,
         "affordability": 6,
-        "longevity": 7,
+        "longevity": 6,
         "seasonal": 8,
         "inclusivity": 6,
-        "credibility": 6
+        "credibility": 7
       },
-      "score": 58.9
+      "score": 58.5
     },
     {
       "title": "Meg Ryan's Best Outfits In When Harry Met Sally, Ranked By Timelessness",
@@ -606,34 +628,12 @@
         "helpfulness": 5,
         "trendiness": 3,
         "affordability": 7,
-        "longevity": 9,
-        "seasonal": 7,
+        "longevity": 8,
+        "seasonal": 8,
         "inclusivity": 5,
         "credibility": 7
       },
-      "score": 58.6
-    },
-    {
-      "title": "11 Best Men's Dress Shirts 2026, According to GQ Editors",
-      "url": "https://www.gq.com/story/best-mens-dress-shirts",
-      "outlet": "GQ",
-      "audience": "men",
-      "published": "2026-10-30T18:25:41+00:00",
-      "snippet": "Forget haggling with HR or securing a competing offer—just button up one of these.",
-      "id": 16,
-      "topic": "men's dress shirts",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 7,
-        "helpfulness": 6,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 8,
-        "seasonal": 6,
-        "inclusivity": 4,
-        "credibility": 7
-      },
-      "score": 57.2
+      "score": 58.3
     },
     {
       "title": "I Love a '90s Minimalist Look—These Are the Nordstrom Pieces I'm Eyeing for Fall",
@@ -651,33 +651,11 @@
         "trendiness": 3,
         "affordability": 5,
         "longevity": 8,
-        "seasonal": 7,
+        "seasonal": 8,
         "inclusivity": 5,
         "credibility": 8
       },
-      "score": 57.2
-    },
-    {
-      "title": "The Best Knee-Length Skirts Worth Adding to Your Closet",
-      "url": "https://www.elle.com/fashion/shopping/a74298696/best-knee-length-skirts-trend/",
-      "outlet": "Elle",
-      "audience": "women",
-      "published": "2026-10-31T15:22:24+00:00",
-      "snippet": "From polished pencils to effortless denim, these are the skirts to shop now.",
-      "id": 76,
-      "topic": "knee-length skirts",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 7,
-        "helpfulness": 5,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 8,
-        "seasonal": 6,
-        "inclusivity": 6,
-        "credibility": 8
-      },
-      "score": 57.2
+      "score": 57.9
     },
     {
       "title": "Skip the Slip-Ons! Emily Blunt’s Anti-Trend Sneakers Are the Only Shoes You Need for Winter Travel",
@@ -724,48 +702,48 @@
       "score": 57.0
     },
     {
-      "title": "Your Winter Wardrobe Needs a Sexy Little Sweater",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UdlJNeHU4MUxObGJFd2pkUDdObllyTk8weWNQNmZ6NGlId0FxcGFCNHgwUm5hMFFOVWZvY1BiTWw3dUlPaFg3MnRrMFkwZ1loSEJEVmxTYXZzUDZTRkkzaVVMMXBNODlrT2pDWUdHbGRUSmdSWVVuRXVR?oc=5",
-      "outlet": "ELLE",
+      "title": "The ‘Imperfect Manicure’ Trend Is Finally Making Smudged Nail Polish Cool",
+      "url": "https://www.glamour.com/story/the-imperfect-manicure-trend",
+      "outlet": "Glamour",
       "audience": "women",
-      "published": "2026-10-30T20:41:51+00:00",
-      "snippet": "Your Winter Wardrobe Needs a Sexy Little Sweater ELLE",
-      "id": 97,
-      "topic": "winter sweaters",
+      "published": "2026-10-31T14:00:00+00:00",
+      "snippet": "The manicure “even your boyfriend could have done.”",
+      "id": 81,
+      "topic": "imperfect manicure",
       "is_style_advice": true,
       "criteria": {
         "applicability": 7,
-        "helpfulness": 5,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 7,
-        "seasonal": 9,
-        "inclusivity": 5,
-        "credibility": 7
-      },
-      "score": 57.0
-    },
-    {
-      "title": "Lymphatic Drainage: 4 Simple Habits to Add to Your Daily Routine",
-      "url": "https://www.vogue.com/article/lymphatic-drainage-daily-routine-habits",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T21:59:02+00:00",
-      "snippet": "From deep breathing to rebounding, experts explain the small daily habits that can help support healthy lymphatic flow—and why it matters beyond depuffing.",
-      "id": 26,
-      "topic": "lymphatic wellness habits",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 6,
         "helpfulness": 4,
         "trendiness": 3,
         "affordability": 9,
-        "longevity": 6,
+        "longevity": 3,
         "seasonal": 5,
-        "inclusivity": 6,
+        "inclusivity": 7,
         "credibility": 8
       },
-      "score": 56.5
+      "score": 56.2
+    },
+    {
+      "title": "The Runways Have Spoken: Velvet Pants Are an Everyday Staple for Fall",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTBrM3FoU0NDYWtGM1VLdWxYZG5nSU51cl9uaVJiNC1lS3RrbDIycnZ0UkRVNEhfT3RlT1lsdFpkWlR1MEQzeWVCUlAzcTJITWFvRmZGeFdvRldOaWtVTXpQenM4TXY5XzduZ0htbVJGMktjdnpTQkRXdGpKb3JxVmlLSXFZMHVOZGc?oc=5",
+      "outlet": "ELLE",
+      "audience": "women",
+      "published": "2026-10-31T15:23:06+00:00",
+      "snippet": "The Runways Have Spoken: Velvet Pants Are an Everyday Staple for Fall ELLE",
+      "id": 75,
+      "topic": "velvet pants",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 5,
+        "trendiness": 5,
+        "affordability": 5,
+        "longevity": 4,
+        "seasonal": 9,
+        "inclusivity": 5,
+        "credibility": 8
+      },
+      "score": 55.6
     },
     {
       "title": "Winter Is Almost Here—10 Chic Things to Buy in November That Scream Fashion Girl",
@@ -775,7 +753,7 @@
       "published": "2026-11-01T11:00:00+00:00",
       "snippet": "Coats! Denim! Boots!",
       "id": 62,
-      "topic": "November wardrobe buys",
+      "topic": "november shopping picks",
       "is_style_advice": true,
       "criteria": {
         "applicability": 7,
@@ -785,31 +763,31 @@
         "longevity": 5,
         "seasonal": 10,
         "inclusivity": 5,
-        "credibility": 8
+        "credibility": 7
       },
-      "score": 54.8
+      "score": 54.2
     },
     {
-      "title": "‘Nobody Wants This’ Season 3 Is Full of Great Travel Outfit Inspiration—Shop the Looks on Amazon, Starting at $14",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlk0dkVGY3FfTUNoWGx0VUhDRFBSNnBjY2ZKQVhRVlF1Wms0bV9USlNrRWNUTldUajZtc2YxNkp2VDVOMHRKLVRaN2pMQ1lDOXpDRFQ0QmY2WE1IUERuUnE1c0ZSVFpuUHg1Um9BWW96U0FJbTVfVWQ4OXRkWC05X3VzZi1VN25ZUzdxaGI1OVZzeXdDS3F1MU1EZm1UZW5sTmtaSnVaUQ?oc=5",
-      "outlet": "Travel + Leisure",
+      "title": "11 Best Men's Dress Shirts 2026, According to GQ Editors",
+      "url": "https://www.gq.com/story/best-mens-dress-shirts",
+      "outlet": "GQ",
       "audience": "men",
-      "published": "2026-11-01T12:00:00+00:00",
-      "snippet": "‘Nobody Wants This’ Season 3 Is Full of Great Travel Outfit Inspiration—Shop the Looks on Amazon, Starting at $14 Travel + Leisure",
-      "id": 6,
-      "topic": "travel outfits",
+      "published": "2026-10-30T18:25:41+00:00",
+      "snippet": "Forget haggling with HR or securing a competing offer—just button up one of these.",
+      "id": 16,
+      "topic": "men's dress shirts",
       "is_style_advice": true,
       "criteria": {
-        "applicability": 6,
+        "applicability": 7,
         "helpfulness": 5,
         "trendiness": 3,
-        "affordability": 8,
-        "longevity": 4,
+        "affordability": 4,
+        "longevity": 8,
         "seasonal": 6,
-        "inclusivity": 5,
-        "credibility": 6
+        "inclusivity": 4,
+        "credibility": 7
       },
-      "score": 53.8
+      "score": 53.7
     },
     {
       "title": "Lessons in Simplicity: 6 Low-Effort Scandi Trends that Look Exceptionally Sleek",
@@ -834,28 +812,6 @@
       "score": 53.5
     },
     {
-      "title": "The Best Men's Dress Shirts Will Earn You That Promotion",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VQ2kwOFRnZVFwMEU1X3pmRU5XUjBuZHdyekN4TUhHU1BYWXJ0ZmFDSkU3ZlctVjVSRkRLamtaMnE5amFmeU9aOHBNTTZZYldLRVhEaE1haV9XcEU?oc=5",
-      "outlet": "GQ",
-      "audience": "men",
-      "published": "2026-10-30T18:25:41+00:00",
-      "snippet": "The Best Men's Dress Shirts Will Earn You That Promotion GQ",
-      "id": 17,
-      "topic": "men's dress shirts",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 5,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 8,
-        "seasonal": 6,
-        "inclusivity": 4,
-        "credibility": 6
-      },
-      "score": 52.6
-    },
-    {
       "title": "The 9 Fall Makeup Trends to Know, From Witchy Makeup to Cozy Skin",
       "url": "https://www.glamour.com/story/fall-makeup-trends-2026",
       "outlet": "Glamour",
@@ -878,94 +834,6 @@
       "score": 52.5
     },
     {
-      "title": "You Should Absolutely Stop Wearing These “Dated” Bag Trends—and Carry These Stylist-Approved Ones Instead",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0NDd1NVS3Q2UW5TZUo2Zmt1d3pXVFlTYXhzNHF1WkowMWp1RUtaSVNmTG4yalVtTDRKR0p0RTZ3dHhiaUVRSGhQWG1lOEk3eGFBbXNLRDVfc3dTa1hTX1hHWHE0LVI5MjR0ZkxVdE52ZnJVeHpQQmpERlRkSFdRWXRn?oc=5",
-      "outlet": "InStyle",
-      "audience": "women",
-      "published": "2026-10-31T02:00:00+00:00",
-      "snippet": "You Should Absolutely Stop Wearing These “Dated” Bag Trends—and Carry These Stylist-Approved Ones Instead InStyle",
-      "id": 88,
-      "topic": "dated bag trends",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 6,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 5,
-        "seasonal": 6,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 52.3
-    },
-    {
-      "title": "Anthropologie Is My Go-To For Cute Plus-Size Clothes—18 Must-Have Styles I Saw This Week",
-      "url": "https://www.whowhatwear.com/fashion/shopping/best-anthropologie-plus-size-new-arrivals-november-2026",
-      "outlet": "Who What Wear",
-      "audience": "women",
-      "published": "2026-11-01T22:00:00+00:00",
-      "snippet": "Shop everything from on-trend taffeta pants to cool holiday party looks.",
-      "id": 25,
-      "topic": "plus-size Anthropologie",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 5,
-        "trendiness": 3,
-        "affordability": 4,
-        "longevity": 5,
-        "seasonal": 7,
-        "inclusivity": 8,
-        "credibility": 7
-      },
-      "score": 52.2
-    },
-    {
-      "title": "We Found Photo-Worthy Holiday Pajamas for the Entire Family, Starting at $18",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQzBfU2dtQnZfazN5aTNlVlZDRDRmVGhHRmNwcmZfX04xMC1xZkRWcnJzU1ZoTDNXS21ybXR2Vlp6dkQyVElUTVVnbWRibjZoV0hrWF9NZGJrXzhzQXV3SjdOeDdRN0w1WDNPbUpvUWFSOXZ5Nllra0FmN3BhaE0?oc=5",
-      "outlet": "TODAY.com",
-      "audience": "men",
-      "published": "2026-10-30T19:57:13+00:00",
-      "snippet": "We Found Photo-Worthy Holiday Pajamas for the Entire Family, Starting at $18 TODAY.com",
-      "id": 11,
-      "topic": "holiday family pajamas",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 4,
-        "trendiness": 3,
-        "affordability": 8,
-        "longevity": 2,
-        "seasonal": 6,
-        "inclusivity": 8,
-        "credibility": 6
-      },
-      "score": 51.9
-    },
-    {
-      "title": "Better American Sunscreens Are Here—But We’re Still Way Behind the Best",
-      "url": "https://www.gq.com/story/bemt-sunscreen-us-filters-whats-next",
-      "outlet": "GQ",
-      "audience": "men",
-      "published": "2026-10-30T17:51:28+00:00",
-      "snippet": "New bemotrizinol formulas are one small step for US SPF. But we’re still a long way away from making sunscreen synonymous with skincare.",
-      "id": 20,
-      "topic": "sunscreen skincare",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 4,
-        "trendiness": 3,
-        "affordability": 6,
-        "longevity": 7,
-        "seasonal": 3,
-        "inclusivity": 6,
-        "credibility": 8
-      },
-      "score": 51.6
-    },
-    {
       "title": "This Is the 3-Piece Outfit Trend 2026 Cool Girls Are Wearing Instead of Leggings and a Hoodie",
       "url": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-outfit-trend-jennifer-lawrence",
       "outlet": "Who What Wear",
@@ -973,7 +841,7 @@
       "published": "2026-11-02T00:24:04+00:00",
       "snippet": "Jennifer Lawrence is aware.",
       "id": 24,
-      "topic": "three-piece outfit sets",
+      "topic": "three-piece sets",
       "is_style_advice": true,
       "criteria": {
         "applicability": 6,
@@ -982,54 +850,10 @@
         "affordability": 5,
         "longevity": 5,
         "seasonal": 6,
-        "inclusivity": 5,
-        "credibility": 8
-      },
-      "score": 51.5
-    },
-    {
-      "title": "30 Items Vogue Editors Happily Shopped, From Flannel Shirts to Tomato-Red Knitwear",
-      "url": "https://www.vogue.com/article/what-vogue-editors-purchased",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T11:00:00+00:00",
-      "snippet": "Curious what Vogue editors actually spend their money on? These are the items that you’ll actually find in our closets this fall.",
-      "id": 58,
-      "topic": "editor shopping picks",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 5,
-        "trendiness": 3,
-        "affordability": 4,
-        "longevity": 5,
-        "seasonal": 9,
-        "inclusivity": 4,
-        "credibility": 8
-      },
-      "score": 51.4
-    },
-    {
-      "title": "Taylor Swift Cosigned This Comfortable Shoe Trend That Made A Comeback In 2026",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNW9FeDNxZFBKcEZ2dTY4TFFZLW1RM0w5YmtyRTJzbkxadldTb04zbHd6LUY4Y1lqeVptTFAwcnNPQkdCdTRHVlFsbzg5Rnlza3BYaGJ5ZC1zQkFfQkg0N3VtTi15OXZvNldWeGtLVVdCTGZWMHcyeEo5T3BvbVhBdEJfWG1PdGV4UjVEdEFNSUk5M2JSY3RDNkNGaWJxRlhYcUtLeE1QMA?oc=5",
-      "outlet": "Women.com",
-      "audience": "women",
-      "published": "2026-11-01T17:00:00+00:00",
-      "snippet": "Taylor Swift Cosigned This Comfortable Shoe Trend That Made A Comeback In 2026 Women.com",
-      "id": 38,
-      "topic": "comfortable shoe comeback",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 6,
-        "helpfulness": 4,
-        "trendiness": 3,
-        "affordability": 6,
-        "longevity": 5,
-        "seasonal": 6,
         "inclusivity": 6,
-        "credibility": 6
+        "credibility": 8
       },
-      "score": 50.5
+      "score": 52.2
     },
     {
       "title": "Jacquard Is Having a Moment—Here’s How to Wear It Without Looking Overdone",
@@ -1046,12 +870,188 @@
         "helpfulness": 6,
         "trendiness": 3,
         "affordability": 4,
-        "longevity": 4,
+        "longevity": 5,
         "seasonal": 8,
         "inclusivity": 5,
         "credibility": 8
       },
-      "score": 50.4
+      "score": 51.4
+    },
+    {
+      "title": "‘Nobody Wants This’ Season 3 Is Full of Great Travel Outfit Inspiration—Shop the Looks on Amazon, Starting at $14",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlk0dkVGY3FfTUNoWGx0VUhDRFBSNnBjY2ZKQVhRVlF1Wms0bV9USlNrRWNUTldUajZtc2YxNkp2VDVOMHRKLVRaN2pMQ1lDOXpDRFQ0QmY2WE1IUERuUnE1c0ZSVFpuUHg1Um9BWW96U0FJbTVfVWQ4OXRkWC05X3VzZi1VN25ZUzdxaGI1OVZzeXdDS3F1MU1EZm1UZW5sTmtaSnVaUQ?oc=5",
+      "outlet": "Travel + Leisure",
+      "audience": "men",
+      "published": "2026-11-01T12:00:00+00:00",
+      "snippet": "‘Nobody Wants This’ Season 3 Is Full of Great Travel Outfit Inspiration—Shop the Looks on Amazon, Starting at $14 Travel + Leisure",
+      "id": 6,
+      "topic": "travel outfit ideas",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 8,
+        "longevity": 4,
+        "seasonal": 5,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 51.1
+    },
+    {
+      "title": "You Should Absolutely Stop Wearing These “Dated” Bag Trends—and Carry These Stylist-Approved Ones Instead",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0NDd1NVS3Q2UW5TZUo2Zmt1d3pXVFlTYXhzNHF1WkowMWp1RUtaSVNmTG4yalVtTDRKR0p0RTZ3dHhiaUVRSGhQWG1lOEk3eGFBbXNLRDVfc3dTa1hTX1hHWHE0LVI5MjR0ZkxVdE52ZnJVeHpQQmpERlRkSFdRWXRn?oc=5",
+      "outlet": "InStyle",
+      "audience": "women",
+      "published": "2026-10-31T02:00:00+00:00",
+      "snippet": "You Should Absolutely Stop Wearing These “Dated” Bag Trends—and Carry These Stylist-Approved Ones Instead InStyle",
+      "id": 88,
+      "topic": "dated bag trends",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 5,
+        "trendiness": 3,
+        "affordability": 5,
+        "longevity": 5,
+        "seasonal": 6,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 50.3
+    },
+    {
+      "title": "Anthropologie Is My Go-To For Cute Plus-Size Clothes—18 Must-Have Styles I Saw This Week",
+      "url": "https://www.whowhatwear.com/fashion/shopping/best-anthropologie-plus-size-new-arrivals-november-2026",
+      "outlet": "Who What Wear",
+      "audience": "women",
+      "published": "2026-11-01T22:00:00+00:00",
+      "snippet": "Shop everything from on-trend taffeta pants to cool holiday party looks.",
+      "id": 25,
+      "topic": "plus-size styles",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 4,
+        "longevity": 4,
+        "seasonal": 7,
+        "inclusivity": 8,
+        "credibility": 8
+      },
+      "score": 49.8
+    },
+    {
+      "title": "Lymphatic Drainage: 4 Simple Habits to Add to Your Daily Routine",
+      "url": "https://www.vogue.com/article/lymphatic-drainage-daily-routine-habits",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T21:59:02+00:00",
+      "snippet": "From deep breathing to rebounding, experts explain the small daily habits that can help support healthy lymphatic flow—and why it matters beyond depuffing.",
+      "id": 26,
+      "topic": "lymphatic wellness",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 5,
+        "helpfulness": 3,
+        "trendiness": 3,
+        "affordability": 8,
+        "longevity": 5,
+        "seasonal": 4,
+        "inclusivity": 6,
+        "credibility": 8
+      },
+      "score": 49.3
+    },
+    {
+      "title": "We Found Photo-Worthy Holiday Pajamas for the Entire Family, Starting at $18",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQzBfU2dtQnZfazN5aTNlVlZDRDRmVGhHRmNwcmZfX04xMC1xZkRWcnJzU1ZoTDNXS21ybXR2Vlp6dkQyVElUTVVnbWRibjZoV0hrWF9NZGJrXzhzQXV3SjdOeDdRN0w1WDNPbUpvUWFSOXZ5Nllra0FmN3BhaE0?oc=5",
+      "outlet": "TODAY.com",
+      "audience": "men",
+      "published": "2026-10-30T19:57:13+00:00",
+      "snippet": "We Found Photo-Worthy Holiday Pajamas for the Entire Family, Starting at $18 TODAY.com",
+      "id": 11,
+      "topic": "holiday pajamas",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 3,
+        "trendiness": 3,
+        "affordability": 8,
+        "longevity": 2,
+        "seasonal": 6,
+        "inclusivity": 7,
+        "credibility": 6
+      },
+      "score": 49.2
+    },
+    {
+      "title": "The Best Men's Dress Shirts Will Earn You That Promotion",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VQ2kwOFRnZVFwMEU1X3pmRU5XUjBuZHdyekN4TUhHU1BYWXJ0ZmFDSkU3ZlctVjVSRkRLamtaMnE5amFmeU9aOHBNTTZZYldLRVhEaE1haV9XcEU?oc=5",
+      "outlet": "GQ",
+      "audience": "men",
+      "published": "2026-10-30T18:25:41+00:00",
+      "snippet": "The Best Men's Dress Shirts Will Earn You That Promotion GQ",
+      "id": 17,
+      "topic": "men's dress shirts",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 4,
+        "longevity": 8,
+        "seasonal": 6,
+        "inclusivity": 4,
+        "credibility": 6
+      },
+      "score": 49.1
+    },
+    {
+      "title": "Taylor Swift Cosigned This Comfortable Shoe Trend That Made A Comeback In 2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNW9FeDNxZFBKcEZ2dTY4TFFZLW1RM0w5YmtyRTJzbkxadldTb04zbHd6LUY4Y1lqeVptTFAwcnNPQkdCdTRHVlFsbzg5Rnlza3BYaGJ5ZC1zQkFfQkg0N3VtTi15OXZvNldWeGtLVVdCTGZWMHcyeEo5T3BvbVhBdEJfWG1PdGV4UjVEdEFNSUk5M2JSY3RDNkNGaWJxRlhYcUtLeE1QMA?oc=5",
+      "outlet": "Women.com",
+      "audience": "women",
+      "published": "2026-11-01T17:00:00+00:00",
+      "snippet": "Taylor Swift Cosigned This Comfortable Shoe Trend That Made A Comeback In 2026 Women.com",
+      "id": 38,
+      "topic": "comfortable shoe trends",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 5,
+        "longevity": 5,
+        "seasonal": 6,
+        "inclusivity": 6,
+        "credibility": 6
+      },
+      "score": 49.0
+    },
+    {
+      "title": "Chic is Overused, But It's the Only Way To Describe These 33 Nordstrom Winter Finds",
+      "url": "https://www.whowhatwear.com/fashion/shopping/chic-nordstrom-winter-fashion-2026",
+      "outlet": "Who What Wear",
+      "audience": "women",
+      "published": "2026-11-01T11:00:00+00:00",
+      "snippet": "From cashmere gloves to shearling coats.",
+      "id": 61,
+      "topic": "winter shopping picks",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 6,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 3,
+        "longevity": 6,
+        "seasonal": 8,
+        "inclusivity": 5,
+        "credibility": 7
+      },
+      "score": 48.3
     },
     {
       "title": "7 Great Personal Finance Books That Actually Helped Me Figure Out Money",
@@ -1065,7 +1065,7 @@
       "is_style_advice": false,
       "criteria": {
         "applicability": 6,
-        "helpfulness": 3,
+        "helpfulness": 2,
         "trendiness": 3,
         "affordability": 7,
         "longevity": 6,
@@ -1073,29 +1073,29 @@
         "inclusivity": 6,
         "credibility": 8
       },
-      "score": 50.1
+      "score": 48.1
     },
     {
-      "title": "Chic is Overused, But It's the Only Way To Describe These 33 Nordstrom Winter Finds",
-      "url": "https://www.whowhatwear.com/fashion/shopping/chic-nordstrom-winter-fashion-2026",
-      "outlet": "Who What Wear",
-      "audience": "women",
-      "published": "2026-11-01T11:00:00+00:00",
-      "snippet": "From cashmere gloves to shearling coats.",
-      "id": 61,
-      "topic": "Nordstrom winter finds",
-      "is_style_advice": true,
+      "title": "Better American Sunscreens Are Here—But We’re Still Way Behind the Best",
+      "url": "https://www.gq.com/story/bemt-sunscreen-us-filters-whats-next",
+      "outlet": "GQ",
+      "audience": "men",
+      "published": "2026-10-30T17:51:28+00:00",
+      "snippet": "New bemotrizinol formulas are one small step for US SPF. But we’re still a long way away from making sunscreen synonymous with skincare.",
+      "id": 20,
+      "topic": "sunscreen skincare",
+      "is_style_advice": false,
       "criteria": {
         "applicability": 6,
-        "helpfulness": 4,
+        "helpfulness": 3,
         "trendiness": 3,
-        "affordability": 3,
-        "longevity": 5,
-        "seasonal": 8,
-        "inclusivity": 4,
-        "credibility": 7
+        "affordability": 5,
+        "longevity": 6,
+        "seasonal": 3,
+        "inclusivity": 5,
+        "credibility": 8
       },
-      "score": 46.6
+      "score": 46.4
     },
     {
       "title": "What Trench Coat? Winter 2026 Belongs to the Duster Trend",
@@ -1135,11 +1135,11 @@
         "trendiness": 3,
         "affordability": 8,
         "longevity": 4,
-        "seasonal": 6,
+        "seasonal": 5,
         "inclusivity": 6,
         "credibility": 8
       },
-      "score": 45.7
+      "score": 45.0
     },
     {
       "title": "'80s Boot Trends That Are Back In Style For 2026",
@@ -1155,13 +1155,57 @@
         "applicability": 5,
         "helpfulness": 4,
         "trendiness": 3,
-        "affordability": 5,
+        "affordability": 4,
         "longevity": 3,
-        "seasonal": 9,
-        "inclusivity": 4,
+        "seasonal": 8,
+        "inclusivity": 5,
         "credibility": 6
       },
-      "score": 45.7
+      "score": 44.2
+    },
+    {
+      "title": "Kendall Jenner and Hailey Bieber Confirmed This Over-the-Top Outerwear Trend Is About to Be Everywhere",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUx4YjZjRHFBYmZmSVNSNEE5WWdXNzVDUjVyNHVkVTZVZE82dVRDSEp0SW1id2tldy1vT2VFaDJSZEdVYzQxVUlxZjczTmNhQ19pdHRmUENFWFRHQTAzVG5GZmN0aVgtZzBmM0ZkclhHQ3Vwb0lhb1BINVpvM1FKeg?oc=5",
+      "outlet": "InStyle",
+      "audience": "women",
+      "published": "2026-11-02T01:00:00+00:00",
+      "snippet": "Kendall Jenner and Hailey Bieber Confirmed This Over-the-Top Outerwear Trend Is About to Be Everywhere InStyle",
+      "id": 22,
+      "topic": "statement outerwear",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 5,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 3,
+        "longevity": 3,
+        "seasonal": 8,
+        "inclusivity": 5,
+        "credibility": 7
+      },
+      "score": 43.3
+    },
+    {
+      "title": "Nike’s Exquisite Olive-Green Running Shoe Is Perfect",
+      "url": "https://www.highsnobiety.com/p/nike-pegasus-premium-cargo-khaki/",
+      "outlet": "Highsnobiety",
+      "audience": "men",
+      "published": "2026-11-01T20:52:23+00:00",
+      "snippet": "Nike's Pegasus Premium running shoe gets an earthy \"Cargo Khaki\" makeover for its latest release. And honestly, it's quite perfect.",
+      "id": 3,
+      "topic": "designer sneaker releases",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 4,
+        "helpfulness": 2,
+        "trendiness": 5,
+        "affordability": 4,
+        "longevity": 5,
+        "seasonal": 6,
+        "inclusivity": 5,
+        "credibility": 8
+      },
+      "score": 43.0
     },
     {
       "title": "Modern Menswear Takes Its Cues From The Past",
@@ -1197,81 +1241,15 @@
       "is_style_advice": true,
       "criteria": {
         "applicability": 3,
-        "helpfulness": 3,
-        "trendiness": 3,
-        "affordability": 8,
-        "longevity": 2,
-        "seasonal": 5,
-        "inclusivity": 4,
-        "credibility": 8
-      },
-      "score": 41.6
-    },
-    {
-      "title": "Mother-Of-The-Groom Style: Outdated Jewelry & Accessory Trends To Ditch Right Now",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnlqR2VvTFN2dXNXTWpkbVhlVldtemRuS3FDc2pDUkdOLTFBVVRFVFNhbEhIZVlIdF9lQlVzODVldERpZFExWkszRGR6MXAxZXZvTTBmaU5JeW8wZWV4Ti1yR0RPd0FPV3JfZG9WSXBVX256YWVCMVJ6dVVxckRLRW1IeWJLMW94bHZXQVJidXVtUzFa?oc=5",
-      "outlet": "Women.com",
-      "audience": "women",
-      "published": "2026-11-01T16:00:00+00:00",
-      "snippet": "Mother-Of-The-Groom Style: Outdated Jewelry & Accessory Trends To Ditch Right Now Women.com",
-      "id": 41,
-      "topic": "mother-of-groom jewelry",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 4,
         "helpfulness": 4,
         "trendiness": 3,
-        "affordability": 5,
-        "longevity": 4,
-        "seasonal": 3,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 41.2
-    },
-    {
-      "title": "Nike’s Exquisite Olive-Green Running Shoe Is Perfect",
-      "url": "https://www.highsnobiety.com/p/nike-pegasus-premium-cargo-khaki/",
-      "outlet": "Highsnobiety",
-      "audience": "men",
-      "published": "2026-11-01T20:52:23+00:00",
-      "snippet": "Nike's Pegasus Premium running shoe gets an earthy \"Cargo Khaki\" makeover for its latest release. And honestly, it's quite perfect.",
-      "id": 3,
-      "topic": "olive running shoes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 4,
-        "helpfulness": 2,
-        "trendiness": 3,
-        "affordability": 4,
-        "longevity": 5,
-        "seasonal": 7,
-        "inclusivity": 5,
+        "affordability": 7,
+        "longevity": 2,
+        "seasonal": 4,
+        "inclusivity": 4,
         "credibility": 8
       },
-      "score": 40.7
-    },
-    {
-      "title": "Kendall Jenner and Hailey Bieber Confirmed This Over-the-Top Outerwear Trend Is About to Be Everywhere",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUx4YjZjRHFBYmZmSVNSNEE5WWdXNzVDUjVyNHVkVTZVZE82dVRDSEp0SW1id2tldy1vT2VFaDJSZEdVYzQxVUlxZjczTmNhQ19pdHRmUENFWFRHQTAzVG5GZmN0aVgtZzBmM0ZkclhHQ3Vwb0lhb1BINVpvM1FKeg?oc=5",
-      "outlet": "InStyle",
-      "audience": "women",
-      "published": "2026-11-02T01:00:00+00:00",
-      "snippet": "Kendall Jenner and Hailey Bieber Confirmed This Over-the-Top Outerwear Trend Is About to Be Everywhere InStyle",
-      "id": 22,
-      "topic": "statement outerwear",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 5,
-        "helpfulness": 3,
-        "trendiness": 3,
-        "affordability": 3,
-        "longevity": 3,
-        "seasonal": 8,
-        "inclusivity": 4,
-        "credibility": 7
-      },
-      "score": 40.6
+      "score": 41.4
     },
     {
       "title": "The 20 Best New Menswear Items to Buy This Week",
@@ -1296,28 +1274,6 @@
       "score": 40.5
     },
     {
-      "title": "Angel Reese Hops on the Furry Slipper Shoes Trend in Chanel",
-      "url": "https://www.marieclaire.com/fashion/celebrity-style/angel-reese-chanel-fluffy-slippers-trend-2026-game-7-wnba-finals/",
-      "outlet": "Marie Claire",
-      "audience": "women",
-      "published": "2026-11-01T16:50:57+00:00",
-      "snippet": "She styled her fluffy footwear with a $10,400 Chanel bag.",
-      "id": 39,
-      "topic": "furry slipper shoes",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 4,
-        "helpfulness": 3,
-        "trendiness": 3,
-        "affordability": 4,
-        "longevity": 3,
-        "seasonal": 7,
-        "inclusivity": 5,
-        "credibility": 7
-      },
-      "score": 40.1
-    },
-    {
       "title": "Psst, These Are The Most Liked Items From Shopbop This Month—These 33 Are Editor-Approved",
       "url": "https://www.whowhatwear.com/fashion/shopping/shopbop-most-hearted-fashion-finds-2026",
       "outlet": "Who What Wear",
@@ -1325,107 +1281,63 @@
       "published": "2026-11-01T11:00:00+00:00",
       "snippet": "Shop everything, from jeans to holiday-party looks.",
       "id": 63,
-      "topic": "Shopbop picks",
+      "topic": "shopbop picks",
       "is_style_advice": true,
       "criteria": {
         "applicability": 5,
         "helpfulness": 3,
         "trendiness": 3,
         "affordability": 3,
-        "longevity": 3,
+        "longevity": 4,
         "seasonal": 6,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 40.3
+    },
+    {
+      "title": "Mother-Of-The-Groom Style: Outdated Jewelry & Accessory Trends To Ditch Right Now",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnlqR2VvTFN2dXNXTWpkbVhlVldtemRuS3FDc2pDUkdOLTFBVVRFVFNhbEhIZVlIdF9lQlVzODVldERpZFExWkszRGR6MXAxZXZvTTBmaU5JeW8wZWV4Ti1yR0RPd0FPV3JfZG9WSXBVX256YWVCMVJ6dVVxckRLRW1IeWJLMW94bHZXQVJidXVtUzFa?oc=5",
+      "outlet": "Women.com",
+      "audience": "women",
+      "published": "2026-11-01T16:00:00+00:00",
+      "snippet": "Mother-Of-The-Groom Style: Outdated Jewelry & Accessory Trends To Ditch Right Now Women.com",
+      "id": 41,
+      "topic": "mother-of-groom accessories",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 3,
+        "helpfulness": 4,
+        "trendiness": 3,
+        "affordability": 5,
+        "longevity": 4,
+        "seasonal": 4,
         "inclusivity": 4,
-        "credibility": 7
+        "credibility": 6
       },
       "score": 39.2
     },
     {
-      "title": "Not Just Two-Tone Pumps: '80s Shoe Styles We're Seeing All Over Hollywood",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmRoeHVhNzhkVnBuZHdMTUVfeGdUT2tHZ1Awd0FpaWNfa1gwcTBIbHExdkdqd3pWQXZpTW5MTmI2NEtBQlJSU1FYOUY4bkZwajd5a0J2QmlEdDAtakM5YTk4TDBlUmtyZTQ4ZV9LUFM4dkhBTEU3SVpQaXhGM0lQRnl4bw?oc=5",
-      "outlet": "Women.com",
+      "title": "Kendall Jenner Goes Full Indie Darling for Halloween",
+      "url": "https://www.marieclaire.com/fashion/celebrity-style/kendall-jenner-halloween-2026-paris-texas-blonde-bob-pink-mini-dress/",
+      "outlet": "Marie Claire",
       "audience": "women",
-      "published": "2026-10-31T15:00:00+00:00",
-      "snippet": "Not Just Two-Tone Pumps: '80s Shoe Styles We're Seeing All Over Hollywood Women.com",
-      "id": 79,
-      "topic": "80s shoe styles",
-      "is_style_advice": true,
-      "criteria": {
-        "applicability": 4,
-        "helpfulness": 3,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 3,
-        "seasonal": 5,
-        "inclusivity": 4,
-        "credibility": 6
-      },
-      "score": 38.9
-    },
-    {
-      "title": "Best Carry-On Luggage 2026: Top Editor-Tested Picks",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1STJtY0hmR1dxRkRSaGo4QmlXQm9tZWFZd2ZSTklmV241dHBONDkweVByS0dneElXVlBRTGFSNmVEWDk0U21HVG9rX0hDV2c4LW9HVlN6d2RGNlVpYUZFT0oyNzR4enVFMVZFbTFhY2o?oc=5",
-      "outlet": "Forbes",
-      "audience": "men",
-      "published": "2026-10-31T18:02:41+00:00",
-      "snippet": "Best Carry-On Luggage 2026: Top Editor-Tested Picks Forbes",
-      "id": 7,
-      "topic": "carry-on luggage",
+      "published": "2026-11-01T18:19:14+00:00",
+      "snippet": "The choppy blonde bob is a whole vibe.",
+      "id": 35,
+      "topic": "halloween costumes",
       "is_style_advice": false,
       "criteria": {
-        "applicability": 4,
-        "helpfulness": 2,
-        "trendiness": 3,
+        "applicability": 2,
+        "helpfulness": 1,
+        "trendiness": 10,
         "affordability": 4,
-        "longevity": 6,
-        "seasonal": 4,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 38.4
-    },
-    {
-      "title": "Just One Thing: Polo Ralph Lauren’s Polo Blaze Bag",
-      "url": "https://www.vogue.com/article/just-one-thing-polo-ralph-lauren-blaze-bag",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T11:00:00+00:00",
-      "snippet": "Drawing on the house’s equestrian heritage, Polo Ralph Lauren’s new Polo Blaze bag combines saddle-inspired details with a sculptural silhouette. Here’s why it deserves a place in your fall wardrobe.",
-      "id": 57,
-      "topic": "Polo Ralph Lauren bag",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 3,
-        "helpfulness": 2,
-        "trendiness": 3,
-        "affordability": 2,
-        "longevity": 6,
-        "seasonal": 7,
-        "inclusivity": 4,
+        "longevity": 1,
+        "seasonal": 5,
+        "inclusivity": 3,
         "credibility": 8
       },
-      "score": 36.0
-    },
-    {
-      "title": "30 Gifts for Dads Who Swear They Don't Want Anything 2026",
-      "url": "https://www.gq.com/story/best-gifts-for-dad",
-      "outlet": "GQ",
-      "audience": "men",
-      "published": "2026-10-30T18:10:40+00:00",
-      "snippet": "“Save your money,” he says. Noted and ignored.",
-      "id": 18,
-      "topic": "dad gift guides",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 4,
-        "helpfulness": 2,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 2,
-        "seasonal": 6,
-        "inclusivity": 3,
-        "credibility": 6
-      },
-      "score": 35.9
+      "score": 38.4
     },
     {
       "title": "At This Manhattan Halloween Party, 250 People Came Dressed as Dolly Parton",
@@ -1443,11 +1355,209 @@
         "trendiness": 10,
         "affordability": 3,
         "longevity": 1,
+        "seasonal": 6,
+        "inclusivity": 4,
+        "credibility": 8
+      },
+      "score": 38.3
+    },
+    {
+      "title": "Not Just Two-Tone Pumps: '80s Shoe Styles We're Seeing All Over Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmRoeHVhNzhkVnBuZHdMTUVfeGdUT2tHZ1Awd0FpaWNfa1gwcTBIbHExdkdqd3pWQXZpTW5MTmI2NEtBQlJSU1FYOUY4bkZwajd5a0J2QmlEdDAtakM5YTk4TDBlUmtyZTQ4ZV9LUFM4dkhBTEU3SVpQaXhGM0lQRnl4bw?oc=5",
+      "outlet": "Women.com",
+      "audience": "women",
+      "published": "2026-10-31T15:00:00+00:00",
+      "snippet": "Not Just Two-Tone Pumps: '80s Shoe Styles We're Seeing All Over Hollywood Women.com",
+      "id": 79,
+      "topic": "80s shoes",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 4,
+        "helpfulness": 3,
+        "trendiness": 3,
+        "affordability": 4,
+        "longevity": 3,
+        "seasonal": 5,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 38.1
+    },
+    {
+      "title": "Angel Reese Hops on the Furry Slipper Shoes Trend in Chanel",
+      "url": "https://www.marieclaire.com/fashion/celebrity-style/angel-reese-chanel-fluffy-slippers-trend-2026-game-7-wnba-finals/",
+      "outlet": "Marie Claire",
+      "audience": "women",
+      "published": "2026-11-01T16:50:57+00:00",
+      "snippet": "She styled her fluffy footwear with a $10,400 Chanel bag.",
+      "id": 39,
+      "topic": "furry slippers",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 4,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 4,
+        "longevity": 2,
+        "seasonal": 7,
+        "inclusivity": 5,
+        "credibility": 8
+      },
+      "score": 37.7
+    },
+    {
+      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
+      "url": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T08:35:43+00:00",
+      "snippet": "From Kim Kardashian as North West to Zendaya as Halle Berry—this year, Halloween is all about imitation.",
+      "id": 65,
+      "topic": "halloween costumes",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 1,
+        "trendiness": 10,
+        "affordability": 3,
+        "longevity": 1,
+        "seasonal": 6,
+        "inclusivity": 3,
+        "credibility": 8
+      },
+      "score": 37.6
+    },
+    {
+      "title": "What’s the Sanest Approach to Teen Partying?",
+      "url": "http://www.thecut.com/article/brooding-whats-the-sanest-approach-to-teen-partying.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-31T10:00:25+00:00",
+      "snippet": "Parents of teens and young adults weighed in.",
+      "id": 85,
+      "topic": "parenting teens",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 10,
+        "longevity": 3,
         "seasonal": 2,
         "inclusivity": 4,
         "credibility": 8
       },
-      "score": 35.5
+      "score": 37.5
+    },
+    {
+      "title": "Your Horoscope for November 2026: How to Live Your Best Life, According to Your Zodiac Sign",
+      "url": "https://www.glamour.com/story/horoscope-for-november-2026",
+      "outlet": "Glamour",
+      "audience": "women",
+      "published": "2026-11-01T04:00:00+00:00",
+      "snippet": "A monthly horoscope with everything you need to be your most aligned self",
+      "id": 69,
+      "topic": "horoscopes",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 5,
+        "affordability": 10,
+        "longevity": 1,
+        "seasonal": 3,
+        "inclusivity": 5,
+        "credibility": 7
+      },
+      "score": 37.3
+    },
+    {
+      "title": "Best Carry-On Luggage 2026: Top Editor-Tested Picks",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1STJtY0hmR1dxRkRSaGo4QmlXQm9tZWFZd2ZSTklmV241dHBONDkweVByS0dneElXVlBRTGFSNmVEWDk0U21HVG9rX0hDV2c4LW9HVlN6d2RGNlVpYUZFT0oyNzR4enVFMVZFbTFhY2o?oc=5",
+      "outlet": "Forbes",
+      "audience": "men",
+      "published": "2026-10-31T18:02:41+00:00",
+      "snippet": "Best Carry-On Luggage 2026: Top Editor-Tested Picks Forbes",
+      "id": 7,
+      "topic": "carry-on luggage",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 4,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 3,
+        "longevity": 6,
+        "seasonal": 4,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 36.9
+    },
+    {
+      "title": "30 Gifts for Dads Who Swear They Don't Want Anything 2026",
+      "url": "https://www.gq.com/story/best-gifts-for-dad",
+      "outlet": "GQ",
+      "audience": "men",
+      "published": "2026-10-30T18:10:40+00:00",
+      "snippet": "“Save your money,” he says. Noted and ignored.",
+      "id": 18,
+      "topic": "dad gift guides",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 4,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 5,
+        "longevity": 3,
+        "seasonal": 6,
+        "inclusivity": 3,
+        "credibility": 6
+      },
+      "score": 36.9
+    },
+    {
+      "title": "Your Weekly Horoscopes by Madame Clairevoyant: November 1-7",
+      "url": "http://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-of-november-1-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-11-01T10:00:08+00:00",
+      "snippet": "Expect a few roadblocks this week, but trust you’ll be able to navigate them.",
+      "id": 64,
+      "topic": "horoscopes",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 5,
+        "affordability": 10,
+        "longevity": 1,
+        "seasonal": 3,
+        "inclusivity": 5,
+        "credibility": 6
+      },
+      "score": 36.7
+    },
+    {
+      "title": "‘The Hater Goes Deep’ by Lauren Oyler",
+      "url": "http://www.thecut.com/article/lauren-oyler-short-story-fiction-the-hater-from-feeld.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-30T20:45:00+00:00",
+      "snippet": "Read the ending of the six-part serialized short story, “The Hater.”",
+      "id": 96,
+      "topic": "fiction",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 10,
+        "longevity": 3,
+        "seasonal": 3,
+        "inclusivity": 4,
+        "credibility": 8
+      },
+      "score": 36.2
     },
     {
       "title": "Martha Stewart’s White Pants Did Not Survive NBC Halloween",
@@ -1465,143 +1575,11 @@
         "trendiness": 10,
         "affordability": 5,
         "longevity": 1,
-        "seasonal": 2,
+        "seasonal": 3,
         "inclusivity": 3,
         "credibility": 6
       },
-      "score": 34.6
-    },
-    {
-      "title": "What’s the Sanest Approach to Teen Partying?",
-      "url": "http://www.thecut.com/article/brooding-whats-the-sanest-approach-to-teen-partying.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-31T10:00:25+00:00",
-      "snippet": "Parents of teens and young adults weighed in.",
-      "id": 85,
-      "topic": "parenting teens",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 2,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 8,
-        "longevity": 3,
-        "seasonal": 2,
-        "inclusivity": 4,
-        "credibility": 8
-      },
-      "score": 34.5
-    },
-    {
-      "title": "Your Weekly Horoscopes by Madame Clairevoyant: November 1-7",
-      "url": "http://www.thecut.com/article/weekly-horoscope-madame-clairevoyant-week-of-november-1-2026.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-11-01T10:00:08+00:00",
-      "snippet": "Expect a few roadblocks this week, but trust you’ll be able to navigate them.",
-      "id": 64,
-      "topic": "horoscopes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 5,
-        "affordability": 8,
-        "longevity": 1,
-        "seasonal": 3,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 33.7
-    },
-    {
-      "title": "Your Horoscope for November 2026: How to Live Your Best Life, According to Your Zodiac Sign",
-      "url": "https://www.glamour.com/story/horoscope-for-november-2026",
-      "outlet": "Glamour",
-      "audience": "women",
-      "published": "2026-11-01T04:00:00+00:00",
-      "snippet": "A monthly horoscope with everything you need to be your most aligned self",
-      "id": 69,
-      "topic": "horoscopes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 5,
-        "affordability": 8,
-        "longevity": 1,
-        "seasonal": 3,
-        "inclusivity": 5,
-        "credibility": 6
-      },
-      "score": 33.7
-    },
-    {
-      "title": "Lisa Rinna Is a Very Convincing Kylie Jenner",
-      "url": "http://www.thecut.com/article/lisa-rinna-very-convincing-kylie-jenner-halloween.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-30T20:41:34+00:00",
-      "snippet": "Her costume even fooled Kylie herself.",
-      "id": 98,
-      "topic": "halloween costumes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 10,
-        "affordability": 4,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 2,
-        "credibility": 6
-      },
-      "score": 32.4
-    },
-    {
-      "title": "‘The Hater Goes Deep’ by Lauren Oyler",
-      "url": "http://www.thecut.com/article/lauren-oyler-short-story-fiction-the-hater-from-feeld.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-30T20:45:00+00:00",
-      "snippet": "Read the ending of the six-part serialized short story, “The Hater.”",
-      "id": 96,
-      "topic": "short fiction",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 7,
-        "longevity": 3,
-        "seasonal": 3,
-        "inclusivity": 4,
-        "credibility": 8
-      },
-      "score": 31.7
-    },
-    {
-      "title": "Kendall Jenner Goes Full Indie Darling for Halloween",
-      "url": "https://www.marieclaire.com/fashion/celebrity-style/kendall-jenner-halloween-2026-paris-texas-blonde-bob-pink-mini-dress/",
-      "outlet": "Marie Claire",
-      "audience": "women",
-      "published": "2026-11-01T18:19:14+00:00",
-      "snippet": "The choppy blonde bob is a whole vibe.",
-      "id": 35,
-      "topic": "halloween costumes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 10,
-        "affordability": 3,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 2,
-        "credibility": 7
-      },
-      "score": 31.5
+      "score": 35.3
     },
     {
       "title": "adidas’ Most Lowkey Sneaker Is Highly Luxe",
@@ -1614,16 +1592,82 @@
       "topic": "designer sneaker releases",
       "is_style_advice": false,
       "criteria": {
-        "applicability": 2,
+        "applicability": 3,
         "helpfulness": 1,
         "trendiness": 5,
         "affordability": 3,
-        "longevity": 3,
+        "longevity": 4,
         "seasonal": 5,
+        "inclusivity": 4,
+        "credibility": 8
+      },
+      "score": 35.1
+    },
+    {
+      "title": "Just One Thing: Polo Ralph Lauren’s Polo Blaze Bag",
+      "url": "https://www.vogue.com/article/just-one-thing-polo-ralph-lauren-blaze-bag",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T11:00:00+00:00",
+      "snippet": "Drawing on the house’s equestrian heritage, Polo Ralph Lauren’s new Polo Blaze bag combines saddle-inspired details with a sculptural silhouette. Here’s why it deserves a place in your fall wardrobe.",
+      "id": 57,
+      "topic": "designer handbags",
+      "is_style_advice": true,
+      "criteria": {
+        "applicability": 3,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 1,
+        "longevity": 6,
+        "seasonal": 7,
+        "inclusivity": 4,
+        "credibility": 8
+      },
+      "score": 34.5
+    },
+    {
+      "title": "The ‘Sex Diaries’ That Brought Roommates Into the Mix",
+      "url": "http://www.thecut.com/article/the-best-sex-diaries-about-roommates.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-31T11:00:29+00:00",
+      "snippet": "A look back at the anonymous diarists who mixed pleasure with cohabitation, for better and for worse.",
+      "id": 83,
+      "topic": "personal essays",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 10,
+        "longevity": 1,
+        "seasonal": 2,
         "inclusivity": 3,
         "credibility": 8
       },
-      "score": 31.4
+      "score": 32.8
+    },
+    {
+      "title": "The Woman Crushing on Her Domme",
+      "url": "http://www.thecut.com/article/new-sex-diaries-story-the-woman-crushing-on-her-domme.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-30T23:00:42+00:00",
+      "snippet": "In this week’s story, a BDSM session at the dungeon leads to butterflies.",
+      "id": 91,
+      "topic": "sex and relationships",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 10,
+        "longevity": 1,
+        "seasonal": 1,
+        "inclusivity": 3,
+        "credibility": 7
+      },
+      "score": 31.5
     },
     {
       "title": "Wales Bonner’s Fancy adidas Sneaker Is a Rich Little Number",
@@ -1641,11 +1685,11 @@
         "trendiness": 5,
         "affordability": 2,
         "longevity": 3,
-        "seasonal": 6,
+        "seasonal": 5,
         "inclusivity": 4,
         "credibility": 8
       },
-      "score": 31.3
+      "score": 30.6
     },
     {
       "title": "Filson Jackets, High-End Sneakers, and All the New Launches Esquire’s Editors Loved This Week",
@@ -1663,11 +1707,55 @@
         "trendiness": 3,
         "affordability": 2,
         "longevity": 3,
-        "seasonal": 6,
+        "seasonal": 5,
         "inclusivity": 3,
         "credibility": 7
       },
-      "score": 31.0
+      "score": 30.3
+    },
+    {
+      "title": "Christa Pike Is ‘In Pain’ After Her Botched Execution",
+      "url": "http://www.thecut.com/article/christa-pike-is-in-pain-after-her-botched-execution.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-30T21:40:30+00:00",
+      "snippet": "In her first statement since receiving two doses of pentobarbital, Pike said, “I don’t know what comes next.”",
+      "id": 94,
+      "topic": "crime news",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 10,
+        "longevity": 1,
+        "seasonal": 1,
+        "inclusivity": 1,
+        "credibility": 7
+      },
+      "score": 30.1
+    },
+    {
+      "title": "Lisa Rinna Is a Very Convincing Kylie Jenner",
+      "url": "http://www.thecut.com/article/lisa-rinna-very-convincing-kylie-jenner-halloween.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-30T20:41:34+00:00",
+      "snippet": "Her costume even fooled Kylie herself.",
+      "id": 98,
+      "topic": "halloween costumes",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 10,
+        "affordability": 2,
+        "longevity": 1,
+        "seasonal": 3,
+        "inclusivity": 2,
+        "credibility": 6
+      },
+      "score": 30.1
     },
     {
       "title": "23 of Heidi Klum’s Most Iconic Halloween Costumes Through the Years",
@@ -1683,13 +1771,13 @@
         "applicability": 1,
         "helpfulness": 1,
         "trendiness": 10,
-        "affordability": 2,
+        "affordability": 1,
         "longevity": 1,
-        "seasonal": 2,
+        "seasonal": 3,
         "inclusivity": 2,
         "credibility": 8
       },
-      "score": 30.6
+      "score": 29.8
     },
     {
       "title": "How Heidi Klum Transformed Into a Giant Hand For Her 2026 Halloween Costume",
@@ -1705,57 +1793,13 @@
         "applicability": 1,
         "helpfulness": 1,
         "trendiness": 10,
-        "affordability": 2,
+        "affordability": 1,
         "longevity": 1,
-        "seasonal": 2,
+        "seasonal": 3,
         "inclusivity": 2,
         "credibility": 8
       },
-      "score": 30.6
-    },
-    {
-      "title": "The Best Celebrity Halloween Costumes of 2026 So Far",
-      "url": "https://www.vogue.com/slideshow/the-best-halloween-costumes-of-2026",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T08:35:43+00:00",
-      "snippet": "From Kim Kardashian as North West to Zendaya as Halle Berry—this year, Halloween is all about imitation.",
-      "id": 65,
-      "topic": "halloween costumes",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 10,
-        "affordability": 2,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 2,
-        "credibility": 8
-      },
-      "score": 30.6
-    },
-    {
-      "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
-      "url": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
-      "outlet": "Highsnobiety",
-      "audience": "men",
-      "published": "2026-11-01T20:54:18+00:00",
-      "snippet": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
-      "id": 2,
-      "topic": "designer sneaker releases",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 2,
-        "helpfulness": 1,
-        "trendiness": 5,
-        "affordability": 3,
-        "longevity": 2,
-        "seasonal": 5,
-        "inclusivity": 3,
-        "credibility": 8
-      },
-      "score": 30.4
+      "score": 29.8
     },
     {
       "title": "Nike SB's Glossy Champagne-Themed Dunks Have Expensive Taste",
@@ -1780,26 +1824,26 @@
       "score": 29.7
     },
     {
-      "title": "Why Do Black-Owned Brands Keep Getting Dragged Online?",
-      "url": "http://www.thecut.com/article/why-do-black-owned-brands-keep-getting-criticized-online.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-31T14:00:38+00:00",
-      "snippet": "This week, the Lip Bar became the latest example of a troubling trend.",
-      "id": 80,
-      "topic": "Black-owned brands online",
+      "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
+      "url": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
+      "outlet": "Highsnobiety",
+      "audience": "men",
+      "published": "2026-11-01T20:54:18+00:00",
+      "snippet": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
+      "id": 2,
+      "topic": "designer sneaker releases",
       "is_style_advice": false,
       "criteria": {
         "applicability": 2,
         "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 3,
-        "longevity": 3,
-        "seasonal": 3,
-        "inclusivity": 6,
+        "trendiness": 5,
+        "affordability": 2,
+        "longevity": 2,
+        "seasonal": 4,
+        "inclusivity": 3,
         "credibility": 8
       },
-      "score": 29.1
+      "score": 28.2
     },
     {
       "title": "Is the bra the new T-shirt? The fashion trend taking over runways",
@@ -1809,7 +1853,7 @@
       "published": "2026-11-01T02:33:45+00:00",
       "snippet": "Is the bra the new T-shirt? The fashion trend taking over runways Ynetnews",
       "id": 70,
-      "topic": "bra as top",
+      "topic": "bra tops",
       "is_style_advice": false,
       "criteria": {
         "applicability": 2,
@@ -1817,11 +1861,33 @@
         "trendiness": 3,
         "affordability": 4,
         "longevity": 2,
-        "seasonal": 3,
+        "seasonal": 2,
         "inclusivity": 3,
         "credibility": 7
       },
-      "score": 28.9
+      "score": 28.2
+    },
+    {
+      "title": "What Gigi Hadid, A$AP Rocky and Whitney Peak Wore This Week",
+      "url": "http://www.thecut.com/article/what-gigi-hadid-asap-rocky-and-whitney-peak-wore-this-week-parties.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-30T23:30:24+00:00",
+      "snippet": "What do you mean Airbnb hosted this week’s most star-studded function?",
+      "id": 90,
+      "topic": "celebrity street style",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 2,
+        "longevity": 2,
+        "seasonal": 5,
+        "inclusivity": 3,
+        "credibility": 8
+      },
+      "score": 27.9
     },
     {
       "title": "Ralph Lauren’s Polofest Was a Fashion Obsessive’s Dream",
@@ -1831,19 +1897,41 @@
       "published": "2026-10-30T21:56:10+00:00",
       "snippet": "Ralph Lauren’s Polofest Was a Fashion Obsessive’s Dream Harper's BAZAAR",
       "id": 92,
-      "topic": "Ralph Lauren Polofest",
+      "topic": "ralph lauren event",
       "is_style_advice": false,
       "criteria": {
         "applicability": 2,
         "helpfulness": 2,
         "trendiness": 3,
         "affordability": 1,
-        "longevity": 4,
+        "longevity": 3,
         "seasonal": 6,
         "inclusivity": 3,
         "credibility": 7
       },
-      "score": 28.5
+      "score": 27.5
+    },
+    {
+      "title": "Why Do Black-Owned Brands Keep Getting Dragged Online?",
+      "url": "http://www.thecut.com/article/why-do-black-owned-brands-keep-getting-criticized-online.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
+      "outlet": "The Cut",
+      "audience": "women",
+      "published": "2026-10-31T14:00:38+00:00",
+      "snippet": "This week, the Lip Bar became the latest example of a troubling trend.",
+      "id": 80,
+      "topic": "brand backlash",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 3,
+        "longevity": 2,
+        "seasonal": 3,
+        "inclusivity": 5,
+        "credibility": 8
+      },
+      "score": 27.4
     },
     {
       "title": "New York Look Giveaway: Win a Custom Shirt and Tie From J. Mueser",
@@ -1859,57 +1947,13 @@
         "applicability": 2,
         "helpfulness": 1,
         "trendiness": 3,
-        "affordability": 3,
+        "affordability": 2,
         "longevity": 4,
         "seasonal": 4,
-        "inclusivity": 2,
+        "inclusivity": 3,
         "credibility": 8
       },
-      "score": 28.0
-    },
-    {
-      "title": "What Gigi Hadid, A$AP Rocky and Whitney Peak Wore This Week",
-      "url": "http://www.thecut.com/article/what-gigi-hadid-asap-rocky-and-whitney-peak-wore-this-week-parties.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-30T23:30:24+00:00",
-      "snippet": "What do you mean Airbnb hosted this week’s most star-studded function?",
-      "id": 90,
-      "topic": "celebrity week looks",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 2,
-        "helpfulness": 2,
-        "trendiness": 3,
-        "affordability": 2,
-        "longevity": 2,
-        "seasonal": 5,
-        "inclusivity": 3,
-        "credibility": 7
-      },
-      "score": 27.3
-    },
-    {
-      "title": "Byredo's Holiday Collection Celebrates a Swedish Winter Tradition—10 Stylish Items I'm Eyeing",
-      "url": "https://www.whowhatwear.com/beauty/fragrance/byredo-holiday-collection-2026",
-      "outlet": "Who What Wear",
-      "audience": "women",
-      "published": "2026-11-01T12:00:00+00:00",
-      "snippet": "From chic candles to an epic advent calendar and beyond.",
-      "id": 53,
-      "topic": "Byredo holiday collection",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 2,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 2,
-        "longevity": 3,
-        "seasonal": 6,
-        "inclusivity": 3,
-        "credibility": 7
-      },
-      "score": 27.0
+      "score": 27.2
     },
     {
       "title": "What Exactly Was Barry Keoghan’s Skin-Lifting Treatment?",
@@ -1919,7 +1963,7 @@
       "published": "2026-10-30T20:31:26+00:00",
       "snippet": "The Oscar-nominated actor is a regular at a UK-based skincare clinic. We asked his practitioner about his treatments.",
       "id": 9,
-      "topic": "celebrity skin treatments",
+      "topic": "celebrity skincare",
       "is_style_advice": false,
       "criteria": {
         "applicability": 2,
@@ -1932,6 +1976,28 @@
         "credibility": 7
       },
       "score": 26.9
+    },
+    {
+      "title": "The Art of Gifting Well: 21 Luxury Christmas Gifts for Men Who Appreciate the Finer Things",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzBFNnpRZzM3NlFlXy0zV2U3blhwa1M1SkVsM3ZnUGUyLW5BcnY0SEtOOVBWVjdWWEJHb2ViM09uVlQza1dqN0FpanJZRUM0eUVWMW1HMHdfT3VZbVpVRFNMWmp4cHBHcnlNQlpmU0NHVkY2MVdnaXJ6b1cxMnM3cmlwOFNOb083T3ZfTkpVclpMdw?oc=5",
+      "outlet": "Yahoo",
+      "audience": "men",
+      "published": "2026-10-30T19:26:07+00:00",
+      "snippet": "The Art of Gifting Well: 21 Luxury Christmas Gifts for Men Who Appreciate the Finer Things Yahoo",
+      "id": 12,
+      "topic": "luxury gift guides",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 2,
+        "trendiness": 3,
+        "affordability": 1,
+        "longevity": 3,
+        "seasonal": 6,
+        "inclusivity": 2,
+        "credibility": 6
+      },
+      "score": 26.2
     },
     {
       "title": "The Best Dressed Stars of the Week Brought Fun Back to Fashion",
@@ -1956,48 +2022,48 @@
       "score": 25.7
     },
     {
-      "title": "The ‘Sex Diaries’ That Brought Roommates Into the Mix",
-      "url": "http://www.thecut.com/article/the-best-sex-diaries-about-roommates.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
+      "title": "Byredo's Holiday Collection Celebrates a Swedish Winter Tradition—10 Stylish Items I'm Eyeing",
+      "url": "https://www.whowhatwear.com/beauty/fragrance/byredo-holiday-collection-2026",
+      "outlet": "Who What Wear",
       "audience": "women",
-      "published": "2026-10-31T11:00:29+00:00",
-      "snippet": "A look back at the anonymous diarists who mixed pleasure with cohabitation, for better and for worse.",
-      "id": 83,
-      "topic": "relationship stories",
+      "published": "2026-11-01T12:00:00+00:00",
+      "snippet": "From chic candles to an epic advent calendar and beyond.",
+      "id": 53,
+      "topic": "luxury holiday collection",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 2,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 1,
+        "longevity": 3,
+        "seasonal": 6,
+        "inclusivity": 3,
+        "credibility": 7
+      },
+      "score": 25.5
+    },
+    {
+      "title": "Brancusi’s Appeal Is Eternal: Read Vogue’s 1995 Appreciation of the Sculptor",
+      "url": "https://www.vogue.com/article/1995/10/from-the-archives-spare-essentials",
+      "outlet": "Vogue",
+      "audience": "women",
+      "published": "2026-11-01T13:00:00+00:00",
+      "snippet": "Ahead of MoMA’s new “Brancusi: The Artist and His Studio” exhibition, revisit an essay from Vogue’s October 1995 issue.",
+      "id": 47,
+      "topic": "art history",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
         "helpfulness": 1,
         "trendiness": 3,
-        "affordability": 5,
-        "longevity": 1,
+        "affordability": 2,
+        "longevity": 3,
         "seasonal": 2,
         "inclusivity": 3,
         "credibility": 8
       },
-      "score": 25.3
-    },
-    {
-      "title": "The Art of Gifting Well: 21 Luxury Christmas Gifts for Men Who Appreciate the Finer Things",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzBFNnpRZzM3NlFlXy0zV2U3blhwa1M1SkVsM3ZnUGUyLW5BcnY0SEtOOVBWVjdWWEJHb2ViM09uVlQza1dqN0FpanJZRUM0eUVWMW1HMHdfT3VZbVpVRFNMWmp4cHBHcnlNQlpmU0NHVkY2MVdnaXJ6b1cxMnM3cmlwOFNOb083T3ZfTkpVclpMdw?oc=5",
-      "outlet": "Yahoo",
-      "audience": "men",
-      "published": "2026-10-30T19:26:07+00:00",
-      "snippet": "The Art of Gifting Well: 21 Luxury Christmas Gifts for Men Who Appreciate the Finer Things Yahoo",
-      "id": 12,
-      "topic": "luxury gift guides",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 2,
-        "helpfulness": 2,
-        "trendiness": 3,
-        "affordability": 1,
-        "longevity": 2,
-        "seasonal": 6,
-        "inclusivity": 2,
-        "credibility": 6
-      },
-      "score": 25.2
+      "score": 22.8
     },
     {
       "title": "82 Thoughts I Had While Watching ‘Wicker’",
@@ -2007,63 +2073,19 @@
       "published": "2026-11-01T00:40:15+00:00",
       "snippet": "Is it too late for me to put together a wicker woman Halloween costume to wear out in four hours?",
       "id": 71,
-      "topic": "film commentary",
+      "topic": "movie commentary",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
         "helpfulness": 1,
         "trendiness": 3,
-        "affordability": 5,
+        "affordability": 3,
         "longevity": 1,
-        "seasonal": 2,
+        "seasonal": 3,
         "inclusivity": 3,
         "credibility": 7
       },
-      "score": 24.7
-    },
-    {
-      "title": "The Woman Crushing on Her Domme",
-      "url": "http://www.thecut.com/article/new-sex-diaries-story-the-woman-crushing-on-her-domme.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-30T23:00:42+00:00",
-      "snippet": "In this week’s story, a BDSM session at the dungeon leads to butterflies.",
-      "id": 91,
-      "topic": "relationship stories",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 3,
-        "credibility": 7
-      },
-      "score": 24.7
-    },
-    {
-      "title": "Christa Pike Is ‘In Pain’ After Her Botched Execution",
-      "url": "http://www.thecut.com/article/christa-pike-is-in-pain-after-her-botched-execution.html?utm_source=rss&utm_medium=social_acct&utm_campaign=feed-part",
-      "outlet": "The Cut",
-      "audience": "women",
-      "published": "2026-10-30T21:40:30+00:00",
-      "snippet": "In her first statement since receiving two doses of pentobarbital, Pike said, “I don’t know what comes next.”",
-      "id": 94,
-      "topic": "crime news",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 5,
-        "longevity": 1,
-        "seasonal": 1,
-        "inclusivity": 2,
-        "credibility": 8
-      },
-      "score": 23.9
+      "score": 22.4
     },
     {
       "title": "Princess Diana Made a Risqué Quip to Royal Photographer",
@@ -2082,10 +2104,10 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
       "title": "Princess Kate and Prince William \"Forced to Cancel\" Vacation",
@@ -2104,10 +2126,10 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
       "title": "King Charles's \"True Colors\" Were on Full Display",
@@ -2126,10 +2148,10 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
       "title": "Queen Elizabeth Once Suggested the Help of a Family Mentor for Meghan Markle,",
@@ -2148,10 +2170,10 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
       "title": "Princess Kate's Ally Is Labeled \"Most Well-Behaved Royal\"",
@@ -2170,10 +2192,10 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
       "title": "How Kate and William Are Ditching \"Institutional Secrecy\"",
@@ -2192,32 +2214,54 @@
         "affordability": 1,
         "longevity": 1,
         "seasonal": 1,
-        "inclusivity": 2,
+        "inclusivity": 1,
         "credibility": 6
       },
-      "score": 21.2
+      "score": 20.5
     },
     {
-      "title": "Brancusi’s Appeal Is Eternal: Read Vogue’s 1995 Appreciation of the Sculptor",
-      "url": "https://www.vogue.com/article/1995/10/from-the-archives-spare-essentials",
-      "outlet": "Vogue",
-      "audience": "women",
-      "published": "2026-11-01T13:00:00+00:00",
-      "snippet": "Ahead of MoMA’s new “Brancusi: The Artist and His Studio” exhibition, revisit an essay from Vogue’s October 1995 issue.",
-      "id": 47,
-      "topic": "art history retrospective",
+      "title": "EXCLUSIVE: Jovana Louis on Red Carpet Style, Taking Aim at Ready-to-Wear and Its First New York Store",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnNGRjljTUVOMG1fLTBickxqZmhMdERTOEtnVWsxTWd2VGFvVzAxUF85eEJ4QkY4VFVZYUhQVHVCODhJNGZSeFp6X3Y0SGtramNtOFdXckMxa2ZNV3dZR09VZ3lQSU9vQ2FiOTR6VHBZb004RWlnTXRyNkZpaVQ5Q3ktakliUExuMks0eVBNVndJNnpKQTNJUkh3ZVRGMFd2dWgwSmxCQWVaREc0bVZF?oc=5",
+      "outlet": "WWD",
+      "audience": "men",
+      "published": "2026-10-31T01:32:50+00:00",
+      "snippet": "EXCLUSIVE: Jovana Louis on Red Carpet Style, Taking Aim at Ready-to-Wear and Its First New York Store WWD",
+      "id": 8,
+      "topic": "fashion business news",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
         "helpfulness": 1,
         "trendiness": 3,
         "affordability": 1,
-        "longevity": 3,
+        "longevity": 2,
+        "seasonal": 3,
+        "inclusivity": 2,
+        "credibility": 8
+      },
+      "score": 20.3
+    },
+    {
+      "title": "Are You Ready for the 2027 Marie Claire Fragrance Awards?",
+      "url": "https://www.marieclaire.com/beauty/fragrance/fragrance-awards-2027-submission-details/",
+      "outlet": "Marie Claire",
+      "audience": "women",
+      "published": "2026-11-01T12:00:00+00:00",
+      "snippet": "Here's everything you need to know about submitting a scent to our 4th annual program.",
+      "id": 49,
+      "topic": "fragrance awards",
+      "is_style_advice": false,
+      "criteria": {
+        "applicability": 1,
+        "helpfulness": 1,
+        "trendiness": 3,
+        "affordability": 2,
+        "longevity": 1,
         "seasonal": 2,
         "inclusivity": 2,
         "credibility": 8
       },
-      "score": 20.6
+      "score": 20.1
     },
     {
       "title": "New Balance's Next USM Collab? Modular Cold Plunge Tanks",
@@ -2227,7 +2271,7 @@
       "published": "2026-11-01T20:50:57+00:00",
       "snippet": "New Balance & USM return with their newest collaboration: modular cold plunge stations for New York marathon runners.",
       "id": 4,
-      "topic": "brand collab news",
+      "topic": "sports collab news",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
@@ -2293,7 +2337,7 @@
       "published": "2026-10-30T17:41:50+00:00",
       "snippet": "In the aftermath of the New York Knicks' NBA championship, it's a weird time to root for their crosstown rivals. But things are looking up for the Brooklyn Nets, writes lifelong fan and GQ watch editor Cam Wolf.",
       "id": 21,
-      "topic": "sports fandom",
+      "topic": "sports culture",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
@@ -2306,28 +2350,6 @@
         "credibility": 7
       },
       "score": 18.7
-    },
-    {
-      "title": "EXCLUSIVE: Jovana Louis on Red Carpet Style, Taking Aim at Ready-to-Wear and Its First New York Store",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnNGRjljTUVOMG1fLTBickxqZmhMdERTOEtnVWsxTWd2VGFvVzAxUF85eEJ4QkY4VFVZYUhQVHVCODhJNGZSeFp6X3Y0SGtramNtOFdXckMxa2ZNV3dZR09VZ3lQSU9vQ2FiOTR6VHBZb004RWlnTXRyNkZpaVQ5Q3ktakliUExuMks0eVBNVndJNnpKQTNJUkh3ZVRGMFd2dWgwSmxCQWVaREc0bVZF?oc=5",
-      "outlet": "WWD",
-      "audience": "men",
-      "published": "2026-10-31T01:32:50+00:00",
-      "snippet": "EXCLUSIVE: Jovana Louis on Red Carpet Style, Taking Aim at Ready-to-Wear and Its First New York Store WWD",
-      "id": 8,
-      "topic": "fashion business news",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 1,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 2,
-        "credibility": 8
-      },
-      "score": 18.6
     },
     {
       "title": "Harry Styles’s Thank-You Note to New York? A Special Issue of The Village Voice",
@@ -2352,28 +2374,6 @@
       "score": 18.6
     },
     {
-      "title": "Are You Ready for the 2027 Marie Claire Fragrance Awards?",
-      "url": "https://www.marieclaire.com/beauty/fragrance/fragrance-awards-2027-submission-details/",
-      "outlet": "Marie Claire",
-      "audience": "women",
-      "published": "2026-11-01T12:00:00+00:00",
-      "snippet": "Here's everything you need to know about submitting a scent to our 4th annual program.",
-      "id": 49,
-      "topic": "fragrance awards",
-      "is_style_advice": false,
-      "criteria": {
-        "applicability": 1,
-        "helpfulness": 1,
-        "trendiness": 3,
-        "affordability": 1,
-        "longevity": 1,
-        "seasonal": 2,
-        "inclusivity": 2,
-        "credibility": 8
-      },
-      "score": 18.6
-    },
-    {
       "title": "Nobody Wants to Have a Baby Boy Anymore",
       "url": "https://www.gq.com/story/nobody-wants-to-have-a-baby-boy-anymore",
       "outlet": "GQ",
@@ -2381,7 +2381,7 @@
       "published": "2026-10-30T18:26:12+00:00",
       "snippet": "From gender reveals and adoption to sex-selective IVF, the world’s historical preference for sons is showing signs of reversal.",
       "id": 15,
-      "topic": "gender preference society",
+      "topic": "gender preference culture",
       "is_style_advice": false,
       "criteria": {
         "applicability": 1,
@@ -2391,9 +2391,9 @@
         "longevity": 1,
         "seasonal": 1,
         "inclusivity": 2,
-        "credibility": 8
+        "credibility": 7
       },
-      "score": 17.9
+      "score": 17.3
     }
   ]
 }
