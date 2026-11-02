@@ -55,7 +55,7 @@ def publish(body_html: str) -> str:
     result = _graphql(store, token, """
         mutation($id: ID!, $page: PageUpdateInput!) {
           pageUpdate(id: $id, page: $page) { page { id handle } userErrors { field message } }
-        }""", {"id": nodes[0]["id"], "page": {"body": body_html, "isPublished": True}})
+        }""", {"id": nodes[0]["id"], "page": {"body": body_html}})
     errors = result["pageUpdate"]["userErrors"]
     if errors:
         raise RuntimeError(f"pageUpdate failed: {errors}")
