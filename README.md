@@ -34,11 +34,12 @@ Selection rules: non-advice pieces (business news, gossip, deals) are dropped; a
 
    (Or run `shopify theme push --only templates/page.home-hero.liquid ...` with the Shopify CLI.)
 3. **Pages:** Online Store → Pages:
-   - "Home": template `page.home-hero`. To make it the landing page, link to it from your navigation, or redirect `/` to it.
+   - "Home": template `page.home-hero`. Shopify can't redirect `/`, so link to it from your navigation.
    - "Style Tips": handle `style-tips`, template `page.style-tips`. The body can be blank to start.
 4. **API access:** create an app for your store with the `read_content` and `write_content` Admin API scopes.
    - Legacy custom app (Settings → Apps → Develop apps): copy the Admin API access token → secret `SHOPIFY_ADMIN_TOKEN`.
-   - Dev Dashboard app: install it on your store, then set secrets `SHOPIFY_CLIENT_ID` and `SHOPIFY_CLIENT_SECRET`. The pipeline exchanges them for a token on every run.
+   - Dev Dashboard app **in the store's own organization** (installed from the Installs card): set secrets `SHOPIFY_CLIENT_ID` and `SHOPIFY_CLIENT_SECRET`. The pipeline exchanges them for a token on every run.
+   - Dev Dashboard app **in a Partner organization** (Shopify only offers an install link / "custom distribution"; client credentials fail with `shop_not_permitted`): add `http://localhost:3456/callback` as a redirect URL on the app, then run `python pipeline/get_token.py your-store.myshopify.com` once, approve in the browser, and put the printed token in `SHOPIFY_ADMIN_TOKEN`.
 5. **GitHub secrets** (repo → Settings → Secrets and variables → Actions): `ANTHROPIC_API_KEY`, `SHOPIFY_STORE` (e.g. `my-shop.myshopify.com`) and the Shopify credentials from step 4.
 6. Actions tab → *Weekly style tips* → **Run workflow** (try `dry_run` first and download the preview artifact).
 
