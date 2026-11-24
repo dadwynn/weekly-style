@@ -68,6 +68,11 @@ def main() -> None:
         print(f"Preview written to {out}")
     else:
         print(f"Published: {publish(fragment)}")
+        # Stable address for the mobile app: this week's published edition only.
+        # Written after a successful publish so it always matches the live page.
+        latest = {"date": archive["date"], "edition": archive["edition"]}
+        (data_dir / "latest.json").write_text(
+            json.dumps(latest, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":
