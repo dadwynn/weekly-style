@@ -52,6 +52,6 @@ python collect.py            # just list what would be collected (no API key nee
 python main.py --dry-run     # full run, writes preview/index.html (needs ANTHROPIC_API_KEY)
 ```
 
-Each run saves its ranking and edition to `data/YYYY-MM-DD.json`. If fewer than 20 articles are collected, the run aborts and last week's page stays up.
+Each run saves its ranking and edition to `data/YYYY-MM-DD.json`. After a successful publish, the same edition (without the full ranking) is also written to `data/latest.json`, a fixed address the mobile app reads; dry runs don't update it. If fewer than 20 articles are collected, the run aborts and last week's page stays up.
 
 Optional env vars: `CLAUDE_MODEL` (default `claude-sonnet-5-5`), `SHOPIFY_PAGE_HANDLE` (default `style-tips`), `SHOPIFY_API_VERSION` (default `2026-10`).
